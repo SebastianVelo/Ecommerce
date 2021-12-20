@@ -1,14 +1,28 @@
 <script>
-  export let name;
+  import { Router } from "svelte-navigator";
+  import Footer from "./layout/footer/Footer.svelte";
+  import Main from "./layout/main/Main.svelte";
+  import Navigation from "./layout/navigation/Navigation.svelte";
+
+  const navigation = {
+    brand: "hiringroom",
+    actions: [
+      {
+        label: "Offers",
+        path: "/offers",
+      },
+    ],
+    sections: [],
+  };
 </script>
 
-<main>
-  <h1>Hello {name}!</h1>
-  <p>
-    Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn
-    how to build Svelte apps.
-  </p>
-</main>
+<Router>
+  <div class="h-screen overflow-hidden">
+    <Navigation {navigation} />
+    <Main />
+    <Footer />
+  </div>
+</Router>
 
 <style lang="postcss" global>
   @tailwind base;
