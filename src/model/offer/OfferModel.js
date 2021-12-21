@@ -5,6 +5,24 @@ class OfferModel {
         this.offer = offer;
     }
 
+    get createdDays() {
+        const diff = Math.abs(new Date() - this.offer.dateCreated);
+        const days = Math.ceil(diff / (1000 * 60 * 60 * 24));
+        return days > 2 ? `${days}d ago` : "New";
+    }
+
+    get description() {
+        return this.offer.description;
+    }
+
+    get skills() {
+        return this.offer.skills;
+    }
+
+    get seniority() {
+        return this.offer.seniority ?? '';
+    }
+
     get idPath() {
         return `/offer/${this.offer.id}`
     }
