@@ -8,7 +8,7 @@
 </script>
 
 <div class={style.get}>
-    <ActionsRow {model} style={style.actionsRow} />
-    <DetailRow {model} style={style.detailRow} />
-    <InfoCardsRow {model} style={style.infoCardsRow} />
+    <ActionsRow model={model.actionsRow} style={style.actionsRow} />
+    <DetailRow model={model.detailRow} style={style.detailRow} />
+    <InfoCardsRow model={model.infoCardsRow} style={style.infoCardsRow} />
 </div>

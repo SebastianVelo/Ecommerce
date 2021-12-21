@@ -4,7 +4,7 @@ import StyleSheet from "../../../tailwind/StyleSheet";
 const nav = Styles
     .builder()
     .add("bg-black text-white")
-    .add("px-4 py-2")
+    .add("p-4")
     .add("flex flex-col justify-center")
     .add("space-y-2")
     .getClassName();
@@ -19,7 +19,7 @@ export default {
     nav: StyleSheet(nav, {
         top: StyleSheet(row, {
             header: StyleSheet("text-2xl"),
-            actions: StyleSheet("flex space-x-2")
+            actions: StyleSheet("flex space-x-2 items-center")
         }),
         bottom: StyleSheet(row, {
             sections: StyleSheet("flex space-x-4")

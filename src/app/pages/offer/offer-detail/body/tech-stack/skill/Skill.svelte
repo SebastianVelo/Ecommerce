@@ -1,5 +1,5 @@
 <script>
-    import Rating from "../../../../../shared/rating/Rating.svelte";
+    import Rating from "../../../../../../shared/rating/Rating.svelte";
     export let skill;
 </script>
 

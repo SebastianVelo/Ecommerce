@@ -37,7 +37,7 @@ export default {
         image: StyleSheet("rounded-md w-24 h-16"),
         wrapper: StyleSheet(wrapper, {
             rowTop: StyleSheet(rowTop, {
-                title: StyleSheet("text-2xl"),
+                title: StyleSheet("text-xl"),
                 salary: StyleSheet("text-lg text-green-300")
             }),
             rowBottom: StyleSheet(rowBottom, {

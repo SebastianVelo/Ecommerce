@@ -1,7 +1,8 @@
 <script>
-    import Action from "../../../../../shared/components/atom/action/Action.svelte";
-    export let style;
+    import Action from "../../../../shared/components/atom/action/Action.svelte";
+
     export let model;
+    export let style;
 </script>
 
 <div class={style.get}>

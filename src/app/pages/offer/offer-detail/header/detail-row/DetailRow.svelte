@@ -4,7 +4,7 @@
 </script>
 
 <div class={style.get}>
-    <img class={style.avatar.get} src={model.contractor.avatar} alt={model.contractor.name} />
+    <img class={style.avatar.get} src={model.avatar.src} alt={model.avatar.alt} />
     <div>
         <h1 class={style.title.get}>{model.title}</h1>
         <p>{model.location}</p>

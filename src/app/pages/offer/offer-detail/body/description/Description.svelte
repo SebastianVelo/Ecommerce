@@ -1,11 +1,10 @@
 <script>
     import Section from "../shared/section/Section.svelte";
-
-    export let description;
+    export let model;
 </script>
 
-<Section title="Description">
+<Section title={model.title}>
     <div>
-        {description}
+        {model.data.description}
     </div>
 </Section>

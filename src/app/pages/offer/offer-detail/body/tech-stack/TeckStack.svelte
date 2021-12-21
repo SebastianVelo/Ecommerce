@@ -2,12 +2,12 @@
     import Section from "../shared/section/Section.svelte";
     import Skill from "./skill/Skill.svelte";
 
-    export let skills = [];
+    export let model;
 </script>
 
-<Section title="Tech stack">
+<Section title={model.title}>
     <div class="grid-cols-4">
-        {#each skills as skill}
+        {#each model.data.skills as skill}
             <Skill {skill} />
         {/each}
     </div>

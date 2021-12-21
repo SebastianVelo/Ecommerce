@@ -1,22 +1,16 @@
 <script>
-    import OfferModel from "../../../../model/offer/OfferModel";
-    import Description from "./description/Description.svelte";
+    import getOfferDetail from "../../../usecases/offer-detail/getOfferDetail";
     import Header from "./header/Header.svelte";
+    import Body from "./body/Body.svelte";
+    import Footer from "./footer/Footer.svelte";
     import style from "./styles";
-    import TechStack from "./tech-stack/TeckStack.svelte";
-    import Action from "../../../shared/components/atom/action/Action.svelte";
     export let offer;
 
-    const model = new OfferModel(offer);
+    const model = getOfferDetail(offer);
 </script>
 
 <div class={style.offerDetail.get}>
-    <Header {model} style={style.offerDetail.header} />
-    <div class="mt-8 lg:mt-24 space-y-8">
-        <TechStack skills={model.skills} />
-        <Description description={model.description} />
-    </div>
-    <div class="flex items-center w-full justify-center p-4">
-        <Action type="button" action={{ label: "Apply now" }} />
-    </div>
+    <Header model={model.header} style={style.offerDetail.header} />
+    <Body model={model.body} style={style.offerDetail.body} />
+    <Footer model={model.footer} style={style.offerDetail.footer} />
 </div>
