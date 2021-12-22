@@ -7,11 +7,13 @@
 </script>
 
 <div class={style.card.get}>
-    <img
-        class={style.card.image.get}
-        src={model.avatar.src}
-        alt={model.avatar.alt}
-    />
+    <a href={model.title.path}>
+        <img
+            class={style.card.image.get}
+            src={model.avatar.src}
+            alt={model.avatar.alt}
+        />
+    </a>
     <div class={style.card.wrapper.get}>
         <div class={style.card.wrapper.rowTop.get}>
             <Action type="link" action={model.title} />

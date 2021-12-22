@@ -16,7 +16,7 @@ const map = Styles
 export default {
     page: StyleSheet("h-screen", {
         main: StyleSheet(main, {
-            offers: StyleSheet("space-y-2 px-4 h-full overflow-y-auto col-span-2"),
+            offers: StyleSheet("space-y-4 px-4 h-full overflow-y-auto col-span-2"),
             map: StyleSheet(map)
         })
     })

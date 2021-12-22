@@ -1,12 +1,10 @@
 <script>
-    import getOfferDetail from "../../../usecases/offer-detail/getOfferDetail";
-    import Header from "./header/Header.svelte";
     import Body from "./body/Body.svelte";
     import Footer from "./footer/Footer.svelte";
+    import Header from "./header/Header.svelte";
     import style from "./styles";
-    export let offer;
+    export let model;
 
-    const model = getOfferDetail(offer);
 </script>
 
 <div class={style.offerDetail.get}>

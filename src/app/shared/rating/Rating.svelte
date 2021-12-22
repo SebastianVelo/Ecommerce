@@ -1,14 +1,16 @@
 <script>
+    import style from "./styles";
     export let size;
 
-    const getColor = (idx) => (idx > size ? "bg-green-900" : "bg-green-500");
+    const getPointClass = (idx) =>
+        idx > size ? style.rating.pointInactive : style.rating.pointActive;
     const arr = Array(5)
         .fill(".")
         .map((_, i) => i + 1);
 </script>
 
-<div class="flex space-x-2 items-center">
+<div class={style.rating.get}>
     {#each arr as idx}
-        <span class={`${getColor(idx)} h-3 w-3 flex rounded-full`} />
+        <span class={getPointClass(idx).get} />
     {/each}
 </div>

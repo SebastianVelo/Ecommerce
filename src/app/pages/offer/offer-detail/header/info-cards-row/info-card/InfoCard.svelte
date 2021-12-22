@@ -3,7 +3,7 @@
     export let value;
 </script>
 
-<div class="bg-gray-900 text-center p-4 space-y-2 border border-black lg:rounded-lg">
+<div class="bg-gradient-to-b from-gray-800 to-black text-center p-4 border border-black lg:rounded-md shadow-2xl">
     <p class="font-bold">{value}</p>
-    <p class="text-sm">{key}</p>
+    <p class="text-xs">{key}</p>
 </div>

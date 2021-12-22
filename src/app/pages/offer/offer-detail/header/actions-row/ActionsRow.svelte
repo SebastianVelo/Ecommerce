@@ -6,6 +6,6 @@
 
 <div class={style.get}>
     {#each model.actions as action}
-        <Action type={action.type} action={{ label: action.label }} />
+        <Action type={action.type} action={{...action}} />
     {/each}
 </div>

@@ -4,14 +4,14 @@ import StyleSheet from "../../../../tailwind/StyleSheet";
 
 const card = Styles
     .builder()
-    .add("flex space-x-4 w-full py-4 px-2 bg-gray-900 text-white rounded-lg")
+    .add("flex space-x-4 w-full py-3 px-3 bg-gradient-to-br from-gray-800 to-black text-white rounded-sm")
     .getClassName();
 
 const wrapper = Styles
     .builder()
     .add("flex w-full")
     .add("flex-row justify-start")
-    .add("md:flex-col md:justify-around")
+    .add("md:flex-col md:justify-between")
     .getClassName();
 
 const rowWrapper = Styles

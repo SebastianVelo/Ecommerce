@@ -1,28 +1,16 @@
+import getSalary from "../../common/getSalary";
+
 const getCreatedDays = (offer) => {
     const diff = Math.abs(new Date() - offer.dateCreated);
     const days = Math.ceil(diff / (1000 * 60 * 60 * 24));
     return days > 2 ? `${days}d ago` : "New";
 }
 
-const formatSalary = (offer) => {
-    return `${offer.salary.min.toLocaleString()} - ${offer.salary.max.toLocaleString()} ${offer.salary.currency}`;
-}
-
-const undisclosedSalary = () => {
-    return `Undisclosed Salary`;
-}
-
-const getSalary = (offer) => offer.salary ? formatSalary(offer) : undisclosedSalary();
-
 const getActionsRow = () => ({
     actions: [
         {
-            label: "Back",
-            type: "button"
-        },
-        {
-            label: "Share",
-            type: "button"
+            label: "🠔",
+            path: "/offers"
         },
     ]
 });
