@@ -31,7 +31,8 @@ module.exports = {
           DEFAULT: "#186A8B",
           dark: "#030D11",
         },
-        orange: { ...colors.orange }
+        orange: { ...colors.orange },
+        slate: { ...colors.blueGray },
       }
     }
   },

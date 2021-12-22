@@ -5,13 +5,9 @@
     import getOfferCard from "../../usecases/offer-card/getOfferCard";
     import OfferCard from "./offer-card/OfferCard.svelte";
     import style from "./styles";
+    import { getQuery } from "../../usecases/params/getParams";
 
-    const params = new URLSearchParams(window.location.search);
-    const query = {};
-    [...params.entries()].forEach(([key, val]) => {
-        query[key] = val;
-    });
-    const offers = OfferService.search(query);
+    const offers = OfferService.search(getQuery());
     const models = offers.map(getOfferCard);
 </script>
 

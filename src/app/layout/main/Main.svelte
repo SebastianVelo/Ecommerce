@@ -4,7 +4,7 @@
     export let main;
 </script>
 
-<main class="bg-gray-700 h-screen">
+<main class="bg-slate-900 h-screen">
     {#each main.pages as route}
         <Route {...route} />
     {/each}
