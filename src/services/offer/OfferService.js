@@ -2,11 +2,27 @@ import offers from "../mock/offers";
 
 class OfferService {
     static getAll() {
-        return offers(30);
+        return offers;
     }
 
-    static getByLang(tag) {
-        return OfferService.getAll().filter(offer => offer.tags.includes(tag));
+    static search(query) {
+        return OfferService.getAll().filter(offer => OfferService.check(offer, query))
+    }
+
+    static check(offer, query) {
+        return OfferService.checkLang(offer, query.lang) && OfferService.checkSeniority(offer, query.seniority) && OfferService.checkSearch(offer, query.query);
+    }
+
+    static checkSearch(offer, query) {
+        return !query || offer.title.includes(query);
+    }
+
+    static checkLang(offer, lang) {
+        return !lang || offer.tags.map(t => t.toLowerCase()).includes(lang.toLowerCase());
+    }
+
+    static checkSeniority(offer, seniority) {
+        return !seniority || offer.seniority.toLowerCase() === seniority.toLowerCase();
     }
 
     static getById(id) {

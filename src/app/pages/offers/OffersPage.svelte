@@ -6,10 +6,13 @@
     import OfferCard from "./offer-card/OfferCard.svelte";
     import style from "./styles";
 
-    const urlParams = new URLSearchParams(window.location.search);
-    const lang = urlParams.get("lang");
-    const offers = lang ? OfferService.getByLang(lang) : OfferService.getAll();
-    const models = offers.map((o) => getOfferCard(o));
+    const params = new URLSearchParams(window.location.search);
+    const query = {};
+    [...params.entries()].forEach(([key, val]) => {
+        query[key] = val;
+    });
+    const offers = OfferService.search(query);
+    const models = offers.map(getOfferCard);
 </script>
 
 <div class={style.page.get}>

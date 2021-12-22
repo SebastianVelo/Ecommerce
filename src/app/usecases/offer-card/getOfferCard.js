@@ -4,17 +4,17 @@ const getPath = (offer) => `/offer/${offer.id}`
 
 const getOfferCard = (offer) => ({
     avatar: {
-        src: offer.contractor.avatar,
-        alt: offer.contractor.name,
+        src: offer.company.avatar,
+        alt: offer.company.name,
     },
     title: {
         label: offer.title,
         path: getPath(offer)
     },
     salary: getSalary(offer),
-    contractor: `🏢 ${offer.contractor.name}`,
-    location: `📍 ${offer.location}`,
-    type: offer.type,
+    company: `🏢 ${offer.company.name}`,
+    location: `📍 ${offer.location.name}`,
+    seniority: offer.seniority,
     tags: [...offer.tags],
 });
 

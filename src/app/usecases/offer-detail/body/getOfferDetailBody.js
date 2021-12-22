@@ -1,7 +1,15 @@
+const getLevel = (rating) => {
+    const levels = ['nice to have', 'junior', 'regular', 'advanced', 'expert']
+    return levels[rating-1];
+}
+
 const getTechStack = (offer) => ({
     title: "Tech stack",
     data: {
-        skills: offer.skills
+        skills: offer.skills.map(skill => ({
+            ...skill,
+            level: getLevel(skill.rating)
+        }))
     }
 });
 

@@ -17,11 +17,11 @@ const getActionsRow = () => ({
 
 const getDetailRow = (offer) => ({
     avatar: {
-        src: offer.contractor.avatar,
-        alt: offer.contractor.name
+        src: offer.company.avatar,
+        alt: offer.company.name
     },
     title: offer.title,
-    location: offer.location,
+    location: offer.location.name,
     salary: getSalary(offer),
 });
 
@@ -29,11 +29,11 @@ const getInfoCardsRow = (offer) => ({
     cards: [
         {
             key: 'Company name',
-            value: offer.contractor.name,
+            value: offer.company.name,
         },
         {
             key: 'Company size',
-            value: offer.contractor.employees,
+            value: offer.company.employees,
         },
         {
             key: 'EXP. lvl',

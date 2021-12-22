@@ -6,7 +6,7 @@
 </script>
 
 <Section title={model.title}>
-    <div class="grid-cols-4">
+    <div class="grid-cols-5 grid">
         {#each model.data.skills as skill}
             <Skill {skill} />
         {/each}

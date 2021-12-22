@@ -23,9 +23,9 @@
         </div>
         <div class={style.card.wrapper.rowBottom.get}>
             <div class={style.card.wrapper.rowBottom.spacedRow.get}>
-                <span>{model.contractor}</span>
+                <span>{model.company}</span>
                 <span>{model.location}</span>
-                <Pill>{model.type}</Pill>
+                <Pill>{model.seniority}</Pill>
             </div>
             <div class={style.card.wrapper.rowBottom.spacedRow.get}>
                 {#each model.tags as tag}
