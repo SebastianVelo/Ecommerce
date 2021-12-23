@@ -3,20 +3,26 @@
 
     const filters = [
         {
+            label: "Expert",
+            color: "from-red-300 to-red-900 ring-red-900",
+            property: "seniority",
+            value: "expert",
+        },
+        {
             label: "Sr",
-            color: "from-green-300 to-green-500 ring-green-500",
+            color: "from-orange-300 to-orange-900 ring-orange-900",
             property: "seniority",
             value: "senior",
         },
         {
             label: "Mid",
-            color: "from-blue-300 to-blue-500 ring-blue-500",
+            color: "from-blue-300 to-blue-900 ring-blue-900",
             property: "seniority",
             value: "mid",
         },
         {
             label: "Jr",
-            color: "from-indigo-300 to-indigo-500 ring-indigo-500",
+            color: "from-indigo-300 to-indigo-900 ring-indigo-900",
             property: "seniority",
             value: "junior",
         },

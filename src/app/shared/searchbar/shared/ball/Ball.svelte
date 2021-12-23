@@ -11,6 +11,7 @@
     params.get(property) === value
         ? params.delete(property)
         : params.set(property, value);
+    params.delete("page");
     const path = `/offers?${params.toString()}`;
 
     const style = StyleSheet(
@@ -19,7 +20,7 @@
         } transition-all transition-500 flex flex-col items-center space-y-2 hover:opacity-100`,
         {
             ball: StyleSheet(
-                `${color} bg-gradient-to-b w-10 h-10 ring-2 ring-offset-4 ring-offset-gray-700 rounded-full flex items-center justify-center font-bold shadow-lg text-xs`
+                `${color} bg-gradient-to-b w-10 h-10 ring-2 ring-offset-4 ring-offset-gray-800 rounded-full flex items-center justify-center font-bold shadow-lg text-xs`
             ),
             label: StyleSheet("text-white font-bold"),
         }

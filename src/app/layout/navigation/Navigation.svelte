@@ -14,7 +14,9 @@
         <h1 class={style.nav.top.header.get}>{navigation.brand}</h1>
         <div class={style.nav.top.actions.get}>
             {#each navigation.actions as action}
-                <div class="px-4 py-2 rounded-lg hover:bg-white hover:bg-opacity-25">
+                <div
+                    class="px-4 py-2 rounded-lg hover:bg-white hover:bg-opacity-25 "
+                >
                     <Action {action} />
                 </div>
             {/each}

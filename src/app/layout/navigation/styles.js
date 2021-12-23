@@ -18,7 +18,7 @@ const row = Styles
 export default {
     nav: StyleSheet(nav, {
         top: StyleSheet(row, {
-            header: StyleSheet("text-2xl"),
+            header: StyleSheet("text-3xl px-2 border-gray-700 hover:font-bold hover:tracking-widest transition-letter-spacing duration-200 ease-in bg-clip-text text-transparent bg-gradient-to-br from-primary-light via-primary to-white"),
             actions: StyleSheet("flex space-x-2 items-center tracking-wider	font-bold")
         }),
         bottom: StyleSheet(row, {

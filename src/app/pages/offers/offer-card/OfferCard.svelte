@@ -16,7 +16,9 @@
     </a>
     <div class={style.card.wrapper.get}>
         <div class={style.card.wrapper.rowTop.get}>
-            <Action type="link" action={model.title} />
+            <h3 class={style.card.wrapper.rowTop.title.get}>
+                <Action type="link" action={model.title} />
+            </h3>
             <span class={style.card.wrapper.rowTop.salary.get}
                 >{model.salary}</span
             >
@@ -25,11 +27,13 @@
             <div class={style.card.wrapper.rowBottom.spacedRow.get}>
                 <span>{model.company}</span>
                 <span>{model.location}</span>
-                <Pill>{model.seniority}</Pill>
+                <Pill color={model.seniority.color}
+                    >{model.seniority.label}</Pill
+                >
             </div>
             <div class={style.card.wrapper.rowBottom.spacedRow.get}>
                 {#each model.tags as tag}
-                    <Pill>{tag}</Pill>
+                    <Pill color={tag.color}>{tag.label}</Pill>
                 {/each}
             </div>
         </div>

@@ -33,6 +33,7 @@ module.exports = {
         },
         orange: { ...colors.orange },
         slate: { ...colors.blueGray },
+        sky: { ...colors.sky }
       }
     }
   },

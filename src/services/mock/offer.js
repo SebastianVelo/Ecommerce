@@ -27,37 +27,42 @@ export default {
 };
 /*
 https://api.json-generator.com/templates/2jR5d2mhJJCm/data
-JG.repeat(5, 10, {
-    id: JG.objectId(),
-    title: JG.random('Software Engineer', 'Software Developer', 'Data Engineer', 'BI Analyst', 'DevOps Engineer', 'QA Engineer', 'Team Leader'),
-    salary: {
-        min: JG.integer(2000, 4500),
-        max: JG.integer(5000, 11000),
-        currency: JG.random('USD', 'EUR')
+JG.repeat(200, 400, {
+  id: JG.objectId(),
+  title: JG.random('Software Engineer', 'Software Developer', 'Data Engineer', 'BI Analyst', 'DevOps Engineer', 'QA Engineer', 'Team Leader'),
+  salary: JG.random({
+    min: JG.integer(2000, 4500),
+    max: JG.integer(5000, 11000),
+    currency: JG.random('USD', 'EUR')
+  }, null),
+  company: {
+    name: JG.company(),
+    avatar() {
+    return 'https://avatars.dicebear.com/api/bottts/' + this.name + '.svg';
+  },
+    employees: JG.integer(40, 80000),
+    email() {
+      return (
+       'jobs@' +
+        this.name +
+        JG.domainZone()
+      ).toLowerCase();
     },
-    company: {
-        name: JG.company(),
-        avatar: "https://picsum.photos/640/480",
-        employees: JG.integer(40, 80000),
-        email() {
-            return (
-                'jobs@' +
-                this.company.name +
-                JG.domainZone()
-            ).toLowerCase();
-        },
+   },
+  skills: JG.repeat(1, 4, {
+    rating: JG.integer(1, 5),
+    name: JG.random('React', 'Angular', 'Python', 'Java', 'Scala', 'SQL', 'R', 'Javascript', 'HTML', 'php', 'Ruby')
+  }),
+  dateCreated: new Date(2021, JG.integer(9, 12), JG.integer(1, 30)),
+    description: JG.loremIpsum({ units: 'sentences', count: JG.integer(2, 10) }),
+  seniority: JG.random('Junior', 'Mid', 'Senior', 'Expert'),    location: {
+      name: JG.city(),
+      lat: JG.floating(-90, 90, 6),
+      long: JG.floating(-180, 180, 6),
     },
-    skills: JG.repeat(1, 7, {
-        rating: JG.integer(1, 5),
-        name: JG.random('React', 'Angular', 'Python', 'Java', 'Scala', 'SQL', 'R')
-    }),
-    dateCreated: new Date(2021, JG.integer(9, 12), JG.integer(1, 30)),
-    description: JG.loremIpsum({ units: 'sentences', count: 2 }),
-    seniority: JG.random('Junior', 'Mid', 'Senior', 'Expert'), location: {
-        lat: JG.floating(-90, 90, 6),
-        long: JG.floating(-180, 180, 6),
-    },
-    tags() {
-        return this.skills.map(s => s.name);
-    },
-});*/
+  tags(){
+    return this.skills.map(s => s.name);
+  },
+  type: JG.random('Fully remote')
+});
+*/

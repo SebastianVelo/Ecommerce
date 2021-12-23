@@ -15,7 +15,7 @@ const wrapper = Styles
 
 const rowWrapper = Styles
     .builder()
-    .add("flex justify-between items-center w-full flex-col")
+    .add("flex justify-between items-center sm:items-stretch  w-full flex-col")
     .add("md:flex-row");
 
 //Row top
