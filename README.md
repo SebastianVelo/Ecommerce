@@ -1,4 +1,4 @@
-# IFDb
+# Hiringrooom
 
 _An employment website made with Svelte, styled with Tailwind, and hosted with Firebase!_
 
