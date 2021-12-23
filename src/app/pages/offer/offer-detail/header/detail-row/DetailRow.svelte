@@ -7,7 +7,7 @@
     <img class={style.avatar.get} src={model.avatar.src} alt={model.avatar.alt} />
     <div>
         <h1 class={style.title.get}>{model.title}</h1>
-        <p>{model.location}</p>
-        <p>{model.salary}</p>
+        <p class={style.location.get}>{model.location}</p>
+        <p class={style.salary.get}>{model.salary}</p>
     </div>
 </div>

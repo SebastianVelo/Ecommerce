@@ -11,7 +11,7 @@
     };
 
     const style = StyleSheet(
-        "flex flex-row lg:flex-col items-center justify-center h-full",
+        "flex flex-row lg:flex-col items-center justify-center h-full col-span-2 lg:col-span-1",
         {
             wrapper: StyleSheet(
                 "flex items-center justify-end w-full relative",

@@ -19,7 +19,7 @@ export default {
     nav: StyleSheet(nav, {
         top: StyleSheet(row, {
             header: StyleSheet("text-2xl"),
-            actions: StyleSheet("flex space-x-2 items-center")
+            actions: StyleSheet("flex space-x-2 items-center tracking-wider	font-bold")
         }),
         bottom: StyleSheet(row, {
             sections: StyleSheet("flex space-x-4")
