@@ -7,7 +7,7 @@
 </script>
 
 <Router>
-  <div class="h-screen overflow-hidden">
+  <div class="">
     <Navigation navigation={LayoutService.getNavigation()} />
     <Main main={LayoutService.getMain()} />
     <Footer />

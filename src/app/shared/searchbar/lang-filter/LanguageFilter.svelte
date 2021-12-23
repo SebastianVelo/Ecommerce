@@ -43,5 +43,5 @@
 
 <Filters
     {filters}
-    style="flex items-center justify-center py-4 px-2 space-x-8 overflow-x-auto col-span-2"
+    style="flex items-center lg:justify-center py-4 px-2 space-x-8 overflow-x-auto col-span-2"
 />

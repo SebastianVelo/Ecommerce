@@ -1,8 +1,8 @@
 import StyleSheet from "../../../../tailwind/StyleSheet";
 
 export default {
-    offerDetail: StyleSheet("col-span-2 lg:p-2 overflow-y-scroll py-2 mb-10", {
-        header: StyleSheet("bg-gradient-to-tr from-gray-900 to-blue-900 text-white lg:p-4 flex space-y-2 flex-col rounded-md relative shadow-2xl", {
+    offerDetail: StyleSheet("col-span-3 mb-32", {
+        header: StyleSheet("bg-gradient-to-tl from-gray-900 to-blue-900 text-white lg:p-4 flex space-y-2 flex-col rounded-md relative shadow-2xl", {
             actionsRow: StyleSheet("flex justify-between px-2"),
             detailRow: StyleSheet("flex items-center space-x-8 px-2 py-4 text-xl", {
                 avatar: StyleSheet("h-24 w-24 rounded-full ring-8 ring-white ring-opacity-20 ring-offset-2 ring-offset-indigo"),

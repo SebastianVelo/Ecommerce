@@ -1,5 +1,5 @@
 <script>
-    import Ball from "../../../ball/Ball.svelte";
+    import Ball from "../ball/Ball.svelte";
 
     export let filters;
     export let style;

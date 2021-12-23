@@ -1,10 +1,9 @@
 import Styles from "../../../../tailwind/Styles";
 import StyleSheet from "../../../../tailwind/StyleSheet";
 
-
 const card = Styles
     .builder()
-    .add("flex space-x-4 w-full py-3 px-3 bg-gradient-to-br from-gray-800 to-black text-white rounded-sm")
+    .add("flex space-x-4 w-full py-3 px-3 bg-gradient-to-br from-slate-900 to-black text-white rounded-sm")
     .getClassName();
 
 const wrapper = Styles

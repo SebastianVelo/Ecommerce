@@ -17,7 +17,7 @@
                 "flex items-center justify-end w-full relative",
                 {
                     input: StyleSheet(
-                        "bg-black p-4 rounded-full w-full lg:w-1/2 text-white focus:outline-none focus:w-full transition-500 transition-width shadow-2xl"
+                        "bg-black p-4 rounded-full w-full lg:w-1/2 text-white focus:outline-none focus:w-full transition-500 transition-width shadow-2xl border-2 border-blue-500"
                     ),
                 }
             ),
@@ -30,8 +30,8 @@
         <input class={style.wrapper.input.get} type="text" bind:value={val} />
         <button
             class={`${
-                !val ? "cursor-not-allowed bg-gray-400" : "bg-blue-900"
-            } p-4 rounded-full text-xl transition-all transition-500 absolute right-0`}
+                !val ? "cursor-not-allowed" : ""
+            } p-4 rounded-br-full rounded-tr-full text-xl transition-all transition-500 absolute right`}
             disabled={!val}
             on:click={search}>🔎</button
         >

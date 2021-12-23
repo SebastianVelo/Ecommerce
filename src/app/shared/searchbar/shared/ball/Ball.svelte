@@ -1,7 +1,6 @@
 <script>
-    import StyleSheet from "../../../tailwind/StyleSheet";
-    import { getSearchParams } from "../../usecases/params/getParams";
-
+    import StyleSheet from "../../../../../tailwind/StyleSheet";
+    import { getSearchParams } from "../../../../usecases/params/getParams";
     export let label;
     export let color;
     export let property;
