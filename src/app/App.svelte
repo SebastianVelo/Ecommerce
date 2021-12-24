@@ -10,7 +10,7 @@
   <div class="lg:h-screen lg:overflow-hidden flex flex-col">
     <Navigation navigation={LayoutService.getNavigation()} />
     <Main main={LayoutService.getMain()} />
-    <Footer />
+    <Footer footer={LayoutService.getFooter()} />
   </div>
 </Router>
 

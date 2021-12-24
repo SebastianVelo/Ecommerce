@@ -25,24 +25,25 @@
         active = page;
         pages = getPages();
     };
-
-    console.log(active);
-    console.log(total);
 </script>
 
-<div class="flex space-x-2 px-4 py-2 overflow-x-auto">
+<div class="flex space-x-4 px-4 py-2 overflow-x-auto items-center">
     <Control
         changePage={() => handleClick(active - 1)}
         disabled={active === 1}
     />
-    {#each pages as page}
-        <button
-            class={`${
-                page !== active ? "bg-black text-white" : "bg-primary-light "
-            } text-xl w-16 font-black rounded-lg hover:bg-primary hover:text-black`}
-            on:click={() => handleClick(page)}>{page}</button
-        >
-    {/each}
+    <div class="space-x-2">
+        {#each pages as page}
+            <button
+                class={`${
+                    page !== active
+                        ? "bg-black text-white"
+                        : "bg-primary-light "
+                } text-xl h-12 w-12 font-black rounded-lg hover:bg-primary-light hover:text-black`}
+                on:click={() => handleClick(page)}>{page}</button
+            >
+        {/each}
+    </div>
     <Control
         changePage={() => handleClick(active + 1)}
         disabled={active === total}

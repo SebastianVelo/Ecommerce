@@ -9,7 +9,7 @@ const getCreatedDays = (offer) => {
 const getActionsRow = () => ({
     actions: [
         {
-            label: "🠔",
+            label: "◄",
             path: "/offers"
         },
     ]

@@ -1,23 +1,7 @@
-import Styles from "../../../tailwind/Styles";
 import StyleSheet from "../../../tailwind/StyleSheet";
 
-const main = Styles
-    .builder()
-    .add("grid grid-cols-2 h-full py-2")
-    .add("lg:grid-cols-4")
-    .getClassName();
-
-const map = Styles
-    .builder()
-    .add("h-full w-full hidden col-span-1")
-    .add("lg:block")
-    .getClassName();
-
-    
 export default {
-    page: StyleSheet("bg-gray-800", {
-        main: StyleSheet(main, {
-            map: StyleSheet(map)
-        })
+    page: StyleSheet("", {
+        main: StyleSheet("grid grid-cols-4 h-full py-2")
     })
 }

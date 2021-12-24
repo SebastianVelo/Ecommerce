@@ -47,7 +47,7 @@ const getOfferCard = (offer) => ({
         label: offer.seniority,
         color: getSeniorityPillColor(offer.seniority)
     },
-    tags: [...new Set(offer.tags)].sort().map(tag => ({
+    tags: offer.tags.sort().map(tag => ({
         label: tag,
         color: getTechPillColor(tag)
     })),

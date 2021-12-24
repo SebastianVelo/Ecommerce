@@ -7,7 +7,7 @@
 </script>
 
 <button
-    class="bg-black py-2 text-white text-xl w-16 rounded-lg hover:bg-primary hover:text-black"
+    class={`${disabled ? 'bg-gray-400 cursor-not-allowed' : 'bg-black text-white hover:bg-primary-light hover:text-black'} text-xl w-12 h-12 rounded-lg`}
     {disabled}
     on:click={changePage}
 >

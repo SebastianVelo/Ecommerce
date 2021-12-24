@@ -8,7 +8,10 @@ const getQuery = () => {
     return query;
 }
 
+const isActive = (property, value) => !getSearchParams().get(property) || getSearchParams().get(property) === value;
+
 export {
     getQuery,
-    getSearchParams
+    getSearchParams,
+    isActive
 };

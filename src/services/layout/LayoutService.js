@@ -24,6 +24,12 @@ class LayoutService {
             ]
         }
     }
+
+    static getFooter() {
+        return {
+            author: "Developed with ❤️ by Sebastián Velo"
+        }
+    }
 }
 
 export default LayoutService;
