@@ -7,7 +7,7 @@
 </script>
 
 <Router>
-  <div class="">
+  <div class="lg:h-screen lg:overflow-hidden flex flex-col">
     <Navigation navigation={LayoutService.getNavigation()} />
     <Main main={LayoutService.getMain()} />
     <Footer />

@@ -15,7 +15,7 @@ const map = Styles
 
     
 export default {
-    page: StyleSheet("max-h-screen overflow-y-auto bg-gray-800", {
+    page: StyleSheet("bg-gray-800", {
         main: StyleSheet(main, {
             map: StyleSheet(map)
         })

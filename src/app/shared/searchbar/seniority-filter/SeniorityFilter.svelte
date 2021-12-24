@@ -16,7 +16,7 @@
         },
         {
             label: "Mid",
-            color: "from-blue-300 to-blue-900 ring-blue-900",
+            color: "from-sky-300 to-sky-900 ring-sky-900",
             property: "seniority",
             value: "mid",
         },

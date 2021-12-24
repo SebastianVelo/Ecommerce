@@ -4,7 +4,7 @@ import StyleSheet from "../../../tailwind/StyleSheet";
 const nav = Styles
     .builder()
     .add("bg-black text-white")
-    .add("p-4")
+    .add("px-4 py-2")
     .add("flex flex-col justify-center")
     .add("space-y-2")
     .getClassName();

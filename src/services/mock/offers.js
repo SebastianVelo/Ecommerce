@@ -7,7 +7,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Sensate",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Sensate.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Sensate.svg",
       "employees": 47536,
       "email": "jobs@sensate.si"
     },
@@ -51,7 +51,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Comtours",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Comtours.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Comtours.svg",
       "employees": 8467,
       "email": "jobs@comtours.hangout"
     },
@@ -80,7 +80,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Senmei",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Senmei.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Senmei.svg",
       "employees": 6613,
       "email": "jobs@senmei.gifts"
     },
@@ -114,7 +114,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Coash",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Coash.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Coash.svg",
       "employees": 26267,
       "email": "jobs@coash.canon"
     },
@@ -152,7 +152,7 @@ export default [
     },
     "company": {
       "name": "Isologica",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Isologica.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Isologica.svg",
       "employees": 40431,
       "email": "jobs@isologica.construction"
     },
@@ -185,7 +185,7 @@ export default [
     },
     "company": {
       "name": "Glukgluk",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Glukgluk.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Glukgluk.svg",
       "employees": 19710,
       "email": "jobs@glukgluk.actor"
     },
@@ -218,7 +218,7 @@ export default [
     },
     "company": {
       "name": "Junipoor",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Junipoor.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Junipoor.svg",
       "employees": 960,
       "email": "jobs@junipoor.clothing"
     },
@@ -266,7 +266,7 @@ export default [
     },
     "company": {
       "name": "Vixo",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Vixo.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Vixo.svg",
       "employees": 75172,
       "email": "jobs@vixo.immo"
     },
@@ -295,7 +295,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Ersum",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Ersum.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Ersum.svg",
       "employees": 47137,
       "email": "jobs@ersum.video"
     },
@@ -324,7 +324,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Plutorque",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Plutorque.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Plutorque.svg",
       "employees": 15974,
       "email": "jobs@plutorque.productions"
     },
@@ -357,7 +357,7 @@ export default [
     },
     "company": {
       "name": "Zyple",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Zyple.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Zyple.svg",
       "employees": 14889,
       "email": "jobs@zyple.ir"
     },
@@ -395,7 +395,7 @@ export default [
     },
     "company": {
       "name": "Moltonic",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Moltonic.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Moltonic.svg",
       "employees": 45046,
       "email": "jobs@moltonic.sb"
     },
@@ -428,7 +428,7 @@ export default [
     },
     "company": {
       "name": "Prosely",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Prosely.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Prosely.svg",
       "employees": 61396,
       "email": "jobs@prosely.ba"
     },
@@ -462,7 +462,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Ontagene",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Ontagene.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Ontagene.svg",
       "employees": 27363,
       "email": "jobs@ontagene.earth"
     },
@@ -496,7 +496,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Memora",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Memora.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Memora.svg",
       "employees": 9519,
       "email": "jobs@memora.deals"
     },
@@ -529,7 +529,7 @@ export default [
     },
     "company": {
       "name": "Liquicom",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Liquicom.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Liquicom.svg",
       "employees": 63745,
       "email": "jobs@liquicom.cheap"
     },
@@ -577,7 +577,7 @@ export default [
     },
     "company": {
       "name": "Niquent",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Niquent.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Niquent.svg",
       "employees": 70401,
       "email": "jobs@niquent.gt"
     },
@@ -611,7 +611,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Comdom",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Comdom.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Comdom.svg",
       "employees": 32074,
       "email": "jobs@comdom.sv"
     },
@@ -640,7 +640,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Syntac",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Syntac.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Syntac.svg",
       "employees": 26242,
       "email": "jobs@syntac.android"
     },
@@ -678,7 +678,7 @@ export default [
     },
     "company": {
       "name": "Krag",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Krag.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Krag.svg",
       "employees": 31179,
       "email": "jobs@krag.camp"
     },
@@ -721,7 +721,7 @@ export default [
     },
     "company": {
       "name": "Diginetic",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Diginetic.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Diginetic.svg",
       "employees": 56903,
       "email": "jobs@diginetic.theater"
     },
@@ -769,7 +769,7 @@ export default [
     },
     "company": {
       "name": "Luxuria",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Luxuria.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Luxuria.svg",
       "employees": 39903,
       "email": "jobs@luxuria.pw"
     },
@@ -803,7 +803,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Zipak",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Zipak.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Zipak.svg",
       "employees": 54916,
       "email": "jobs@zipak.lr"
     },
@@ -846,7 +846,7 @@ export default [
     },
     "company": {
       "name": "Ecstasia",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Ecstasia.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Ecstasia.svg",
       "employees": 47842,
       "email": "jobs@ecstasia.be"
     },
@@ -875,7 +875,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Mobildata",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Mobildata.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Mobildata.svg",
       "employees": 27660,
       "email": "jobs@mobildata.cuisinella"
     },
@@ -914,7 +914,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Stockpost",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Stockpost.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Stockpost.svg",
       "employees": 27055,
       "email": "jobs@stockpost.com"
     },
@@ -957,7 +957,7 @@ export default [
     },
     "company": {
       "name": "Earbang",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Earbang.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Earbang.svg",
       "employees": 54416,
       "email": "jobs@earbang.exchange"
     },
@@ -996,7 +996,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Undertap",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Undertap.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Undertap.svg",
       "employees": 36931,
       "email": "jobs@undertap.active"
     },
@@ -1040,7 +1040,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Entropix",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Entropix.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Entropix.svg",
       "employees": 20484,
       "email": "jobs@entropix.vegas"
     },
@@ -1083,7 +1083,7 @@ export default [
     },
     "company": {
       "name": "Senmao",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Senmao.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Senmao.svg",
       "employees": 52169,
       "email": "jobs@senmao.cooking"
     },
@@ -1126,7 +1126,7 @@ export default [
     },
     "company": {
       "name": "Zolavo",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Zolavo.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Zolavo.svg",
       "employees": 23124,
       "email": "jobs@zolavo.love"
     },
@@ -1159,7 +1159,7 @@ export default [
     },
     "company": {
       "name": "Isostream",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Isostream.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Isostream.svg",
       "employees": 58934,
       "email": "jobs@isostream.sd"
     },
@@ -1188,7 +1188,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Phuel",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Phuel.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Phuel.svg",
       "employees": 6658,
       "email": "jobs@phuel.engineering"
     },
@@ -1232,7 +1232,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Soprano",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Soprano.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Soprano.svg",
       "employees": 26380,
       "email": "jobs@soprano.kg"
     },
@@ -1265,7 +1265,7 @@ export default [
     },
     "company": {
       "name": "Neurocell",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Neurocell.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Neurocell.svg",
       "employees": 25245,
       "email": "jobs@neurocell.pub"
     },
@@ -1309,7 +1309,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Geoform",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Geoform.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Geoform.svg",
       "employees": 50473,
       "email": "jobs@geoform.gle"
     },
@@ -1338,7 +1338,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Extrawear",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Extrawear.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Extrawear.svg",
       "employees": 52642,
       "email": "jobs@extrawear.domains"
     },
@@ -1386,7 +1386,7 @@ export default [
     },
     "company": {
       "name": "Cablam",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Cablam.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Cablam.svg",
       "employees": 79202,
       "email": "jobs@cablam.work"
     },
@@ -1429,7 +1429,7 @@ export default [
     },
     "company": {
       "name": "Coriander",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Coriander.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Coriander.svg",
       "employees": 1459,
       "email": "jobs@coriander.bar"
     },
@@ -1462,7 +1462,7 @@ export default [
     },
     "company": {
       "name": "Xixan",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Xixan.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Xixan.svg",
       "employees": 30269,
       "email": "jobs@xixan.yokohama"
     },
@@ -1510,7 +1510,7 @@ export default [
     },
     "company": {
       "name": "Xurban",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Xurban.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Xurban.svg",
       "employees": 30761,
       "email": "jobs@xurban.sncf"
     },
@@ -1543,7 +1543,7 @@ export default [
     },
     "company": {
       "name": "Bizmatic",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Bizmatic.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Bizmatic.svg",
       "employees": 37763,
       "email": "jobs@bizmatic.cologne"
     },
@@ -1581,7 +1581,7 @@ export default [
     },
     "company": {
       "name": "Atgen",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Atgen.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Atgen.svg",
       "employees": 78925,
       "email": "jobs@atgen.cy"
     },
@@ -1615,7 +1615,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Zuvy",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Zuvy.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Zuvy.svg",
       "employees": 61462,
       "email": "jobs@zuvy.adult"
     },
@@ -1658,7 +1658,7 @@ export default [
     },
     "company": {
       "name": "Nitracyr",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Nitracyr.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Nitracyr.svg",
       "employees": 40198,
       "email": "jobs@nitracyr.vc"
     },
@@ -1706,7 +1706,7 @@ export default [
     },
     "company": {
       "name": "Geekfarm",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Geekfarm.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Geekfarm.svg",
       "employees": 36430,
       "email": "jobs@geekfarm.ink"
     },
@@ -1739,7 +1739,7 @@ export default [
     },
     "company": {
       "name": "Dadabase",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Dadabase.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Dadabase.svg",
       "employees": 13960,
       "email": "jobs@dadabase.pa"
     },
@@ -1783,7 +1783,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Bezal",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Bezal.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Bezal.svg",
       "employees": 3347,
       "email": "jobs@bezal.de"
     },
@@ -1812,7 +1812,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Klugger",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Klugger.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Klugger.svg",
       "employees": 14182,
       "email": "jobs@klugger.md"
     },
@@ -1850,7 +1850,7 @@ export default [
     },
     "company": {
       "name": "Unia",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Unia.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Unia.svg",
       "employees": 38747,
       "email": "jobs@unia.co"
     },
@@ -1884,7 +1884,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Dancity",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Dancity.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Dancity.svg",
       "employees": 37103,
       "email": "jobs@dancity.brussels"
     },
@@ -1913,7 +1913,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Zosis",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Zosis.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Zosis.svg",
       "employees": 28851,
       "email": "jobs@zosis.bargains"
     },
@@ -1957,7 +1957,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Rotodyne",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Rotodyne.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Rotodyne.svg",
       "employees": 73672,
       "email": "jobs@rotodyne.durban"
     },
@@ -1986,7 +1986,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Netropic",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Netropic.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Netropic.svg",
       "employees": 19490,
       "email": "jobs@netropic.memorial"
     },
@@ -2025,7 +2025,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Biolive",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Biolive.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Biolive.svg",
       "employees": 73809,
       "email": "jobs@biolive.sener"
     },
@@ -2063,7 +2063,7 @@ export default [
     },
     "company": {
       "name": "Marqet",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Marqet.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Marqet.svg",
       "employees": 72308,
       "email": "jobs@marqet.support"
     },
@@ -2092,7 +2092,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Comtest",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Comtest.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Comtest.svg",
       "employees": 54996,
       "email": "jobs@comtest.tienda"
     },
@@ -2126,7 +2126,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Quility",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Quility.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Quility.svg",
       "employees": 48433,
       "email": "jobs@quility.budapest"
     },
@@ -2159,7 +2159,7 @@ export default [
     },
     "company": {
       "name": "Zerbina",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Zerbina.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Zerbina.svg",
       "employees": 1346,
       "email": "jobs@zerbina.company"
     },
@@ -2202,7 +2202,7 @@ export default [
     },
     "company": {
       "name": "Earwax",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Earwax.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Earwax.svg",
       "employees": 45465,
       "email": "jobs@earwax.cisco"
     },
@@ -2235,7 +2235,7 @@ export default [
     },
     "company": {
       "name": "Opticom",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Opticom.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Opticom.svg",
       "employees": 59539,
       "email": "jobs@opticom.zuerich"
     },
@@ -2273,7 +2273,7 @@ export default [
     },
     "company": {
       "name": "Songlines",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Songlines.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Songlines.svg",
       "employees": 7683,
       "email": "jobs@songlines.kp"
     },
@@ -2321,7 +2321,7 @@ export default [
     },
     "company": {
       "name": "Comvey",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Comvey.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Comvey.svg",
       "employees": 47706,
       "email": "jobs@comvey.su"
     },
@@ -2359,7 +2359,7 @@ export default [
     },
     "company": {
       "name": "Skinserve",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Skinserve.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Skinserve.svg",
       "employees": 7802,
       "email": "jobs@skinserve.investments"
     },
@@ -2392,7 +2392,7 @@ export default [
     },
     "company": {
       "name": "Bitrex",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Bitrex.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Bitrex.svg",
       "employees": 11684,
       "email": "jobs@bitrex.energy"
     },
@@ -2440,7 +2440,7 @@ export default [
     },
     "company": {
       "name": "Bicol",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Bicol.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Bicol.svg",
       "employees": 20522,
       "email": "jobs@bicol.sg"
     },
@@ -2473,7 +2473,7 @@ export default [
     },
     "company": {
       "name": "Buzzopia",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Buzzopia.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Buzzopia.svg",
       "employees": 58064,
       "email": "jobs@buzzopia.loan"
     },
@@ -2506,7 +2506,7 @@ export default [
     },
     "company": {
       "name": "Accuprint",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Accuprint.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Accuprint.svg",
       "employees": 2649,
       "email": "jobs@accuprint.crs"
     },
@@ -2550,7 +2550,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Rodeocean",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Rodeocean.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Rodeocean.svg",
       "employees": 10140,
       "email": "jobs@rodeocean.va"
     },
@@ -2579,7 +2579,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Kage",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Kage.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Kage.svg",
       "employees": 41552,
       "email": "jobs@kage.gold"
     },
@@ -2627,7 +2627,7 @@ export default [
     },
     "company": {
       "name": "Flotonic",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Flotonic.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Flotonic.svg",
       "employees": 45835,
       "email": "jobs@flotonic.lc"
     },
@@ -2671,7 +2671,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Insurety",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Insurety.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Insurety.svg",
       "employees": 15659,
       "email": "jobs@insurety.bnpparibas"
     },
@@ -2709,7 +2709,7 @@ export default [
     },
     "company": {
       "name": "Tubalum",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Tubalum.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Tubalum.svg",
       "employees": 75085,
       "email": "jobs@tubalum.consulting"
     },
@@ -2757,7 +2757,7 @@ export default [
     },
     "company": {
       "name": "Polarium",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Polarium.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Polarium.svg",
       "employees": 24887,
       "email": "jobs@polarium.kn"
     },
@@ -2805,7 +2805,7 @@ export default [
     },
     "company": {
       "name": "Zytrek",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Zytrek.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Zytrek.svg",
       "employees": 55791,
       "email": "jobs@zytrek.nl"
     },
@@ -2848,7 +2848,7 @@ export default [
     },
     "company": {
       "name": "Futuris",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Futuris.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Futuris.svg",
       "employees": 866,
       "email": "jobs@futuris.trade"
     },
@@ -2882,7 +2882,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Dogtown",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Dogtown.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Dogtown.svg",
       "employees": 13574,
       "email": "jobs@dogtown.tl"
     },
@@ -2920,7 +2920,7 @@ export default [
     },
     "company": {
       "name": "Blurrybus",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Blurrybus.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Blurrybus.svg",
       "employees": 1418,
       "email": "jobs@blurrybus.foo"
     },
@@ -2963,7 +2963,7 @@ export default [
     },
     "company": {
       "name": "Velity",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Velity.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Velity.svg",
       "employees": 6109,
       "email": "jobs@velity.vision"
     },
@@ -3011,7 +3011,7 @@ export default [
     },
     "company": {
       "name": "Kiggle",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Kiggle.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Kiggle.svg",
       "employees": 15682,
       "email": "jobs@kiggle.social"
     },
@@ -3049,7 +3049,7 @@ export default [
     },
     "company": {
       "name": "Zidox",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Zidox.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Zidox.svg",
       "employees": 79412,
       "email": "jobs@zidox.condos"
     },
@@ -3097,7 +3097,7 @@ export default [
     },
     "company": {
       "name": "Nimon",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Nimon.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Nimon.svg",
       "employees": 4108,
       "email": "jobs@nimon.fr"
     },
@@ -3131,7 +3131,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Zoinage",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Zoinage.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Zoinage.svg",
       "employees": 7642,
       "email": "jobs@zoinage.ye"
     },
@@ -3170,7 +3170,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Jamnation",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Jamnation.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Jamnation.svg",
       "employees": 48173,
       "email": "jobs@jamnation.lu"
     },
@@ -3199,7 +3199,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Orbaxter",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Orbaxter.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Orbaxter.svg",
       "employees": 35493,
       "email": "jobs@orbaxter.nra"
     },
@@ -3238,7 +3238,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Talkola",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Talkola.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Talkola.svg",
       "employees": 26660,
       "email": "jobs@talkola.green"
     },
@@ -3281,7 +3281,7 @@ export default [
     },
     "company": {
       "name": "Magneato",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Magneato.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Magneato.svg",
       "employees": 58499,
       "email": "jobs@magneato.lasalle"
     },
@@ -3314,7 +3314,7 @@ export default [
     },
     "company": {
       "name": "Menbrain",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Menbrain.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Menbrain.svg",
       "employees": 7744,
       "email": "jobs@menbrain.ngo"
     },
@@ -3343,7 +3343,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Asimiline",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Asimiline.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Asimiline.svg",
       "employees": 22161,
       "email": "jobs@asimiline.management"
     },
@@ -3391,7 +3391,7 @@ export default [
     },
     "company": {
       "name": "Updat",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Updat.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Updat.svg",
       "employees": 3297,
       "email": "jobs@updat.koeln"
     },
@@ -3429,7 +3429,7 @@ export default [
     },
     "company": {
       "name": "Lovepad",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Lovepad.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Lovepad.svg",
       "employees": 30626,
       "email": "jobs@lovepad.rehab"
     },
@@ -3477,7 +3477,7 @@ export default [
     },
     "company": {
       "name": "Qualitern",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Qualitern.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Qualitern.svg",
       "employees": 54303,
       "email": "jobs@qualitern.hu"
     },
@@ -3510,7 +3510,7 @@ export default [
     },
     "company": {
       "name": "Honotron",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Honotron.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Honotron.svg",
       "employees": 41981,
       "email": "jobs@honotron.saxo"
     },
@@ -3548,7 +3548,7 @@ export default [
     },
     "company": {
       "name": "Macronaut",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Macronaut.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Macronaut.svg",
       "employees": 28430,
       "email": "jobs@macronaut.gent"
     },
@@ -3596,7 +3596,7 @@ export default [
     },
     "company": {
       "name": "Skyplex",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Skyplex.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Skyplex.svg",
       "employees": 43658,
       "email": "jobs@skyplex.scholarships"
     },
@@ -3625,7 +3625,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Twiist",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Twiist.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Twiist.svg",
       "employees": 47220,
       "email": "jobs@twiist.sca"
     },
@@ -3654,7 +3654,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Brainquil",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Brainquil.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Brainquil.svg",
       "employees": 50577,
       "email": "jobs@brainquil.es"
     },
@@ -3702,7 +3702,7 @@ export default [
     },
     "company": {
       "name": "Ebidco",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Ebidco.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Ebidco.svg",
       "employees": 8505,
       "email": "jobs@ebidco.io"
     },
@@ -3746,7 +3746,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Zentime",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Zentime.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Zentime.svg",
       "employees": 5560,
       "email": "jobs@zentime.gratis"
     },
@@ -3779,7 +3779,7 @@ export default [
     },
     "company": {
       "name": "Rockyard",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Rockyard.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Rockyard.svg",
       "employees": 320,
       "email": "jobs@rockyard.systems"
     },
@@ -3817,7 +3817,7 @@ export default [
     },
     "company": {
       "name": "Overplex",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Overplex.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Overplex.svg",
       "employees": 79675,
       "email": "jobs@overplex.agency"
     },
@@ -3855,7 +3855,7 @@ export default [
     },
     "company": {
       "name": "Firewax",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Firewax.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Firewax.svg",
       "employees": 48895,
       "email": "jobs@firewax.kw"
     },
@@ -3889,7 +3889,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Apex",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Apex.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Apex.svg",
       "employees": 19533,
       "email": "jobs@apex.weir"
     },
@@ -3933,7 +3933,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Jetsilk",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Jetsilk.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Jetsilk.svg",
       "employees": 64169,
       "email": "jobs@jetsilk.loans"
     },
@@ -3971,7 +3971,7 @@ export default [
     },
     "company": {
       "name": "Steelfab",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Steelfab.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Steelfab.svg",
       "employees": 77670,
       "email": "jobs@steelfab.samsung"
     },
@@ -4005,7 +4005,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Gynko",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Gynko.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Gynko.svg",
       "employees": 17972,
       "email": "jobs@gynko.town"
     },
@@ -4039,7 +4039,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Cognicode",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Cognicode.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Cognicode.svg",
       "employees": 37300,
       "email": "jobs@cognicode.cx"
     },
@@ -4077,7 +4077,7 @@ export default [
     },
     "company": {
       "name": "Colaire",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Colaire.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Colaire.svg",
       "employees": 68805,
       "email": "jobs@colaire.madrid"
     },
@@ -4121,7 +4121,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Telpod",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Telpod.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Telpod.svg",
       "employees": 6338,
       "email": "jobs@telpod.sandvik"
     },
@@ -4155,7 +4155,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Pholio",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Pholio.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Pholio.svg",
       "employees": 76940,
       "email": "jobs@pholio.markets"
     },
@@ -4203,7 +4203,7 @@ export default [
     },
     "company": {
       "name": "Amril",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Amril.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Amril.svg",
       "employees": 48763,
       "email": "jobs@amril.bl"
     },
@@ -4247,7 +4247,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Unisure",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Unisure.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Unisure.svg",
       "employees": 16495,
       "email": "jobs@unisure.vacations"
     },
@@ -4276,7 +4276,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Fuelworks",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Fuelworks.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Fuelworks.svg",
       "employees": 19603,
       "email": "jobs@fuelworks.xxx"
     },
@@ -4314,7 +4314,7 @@ export default [
     },
     "company": {
       "name": "Ronelon",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Ronelon.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Ronelon.svg",
       "employees": 65922,
       "email": "jobs@ronelon.google"
     },
@@ -4353,7 +4353,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Darwinium",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Darwinium.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Darwinium.svg",
       "employees": 53083,
       "email": "jobs@darwinium.gl"
     },
@@ -4392,7 +4392,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Helixo",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Helixo.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Helixo.svg",
       "employees": 22186,
       "email": "jobs@helixo.cfd"
     },
@@ -4440,7 +4440,7 @@ export default [
     },
     "company": {
       "name": "Quizka",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Quizka.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Quizka.svg",
       "employees": 2019,
       "email": "jobs@quizka.cartier"
     },
@@ -4483,7 +4483,7 @@ export default [
     },
     "company": {
       "name": "Zoarere",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Zoarere.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Zoarere.svg",
       "employees": 1817,
       "email": "jobs@zoarere.guide"
     },
@@ -4521,7 +4521,7 @@ export default [
     },
     "company": {
       "name": "Jimbies",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Jimbies.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Jimbies.svg",
       "employees": 18896,
       "email": "jobs@jimbies.ph"
     },
@@ -4564,7 +4564,7 @@ export default [
     },
     "company": {
       "name": "Imperium",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Imperium.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Imperium.svg",
       "employees": 3924,
       "email": "jobs@imperium.kddi"
     },
@@ -4602,7 +4602,7 @@ export default [
     },
     "company": {
       "name": "Springbee",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Springbee.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Springbee.svg",
       "employees": 13712,
       "email": "jobs@springbee.racing"
     },
@@ -4631,7 +4631,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Steeltab",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Steeltab.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Steeltab.svg",
       "employees": 35080,
       "email": "jobs@steeltab.pharmacy"
     },
@@ -4669,7 +4669,7 @@ export default [
     },
     "company": {
       "name": "Eyewax",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Eyewax.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Eyewax.svg",
       "employees": 58784,
       "email": "jobs@eyewax.taipei"
     },
@@ -4717,7 +4717,7 @@ export default [
     },
     "company": {
       "name": "Valpreal",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Valpreal.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Valpreal.svg",
       "employees": 12280,
       "email": "jobs@valpreal.community"
     },
@@ -4746,7 +4746,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Bittor",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Bittor.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Bittor.svg",
       "employees": 73294,
       "email": "jobs@bittor.bzh"
     },
@@ -4779,7 +4779,7 @@ export default [
     },
     "company": {
       "name": "Quantalia",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Quantalia.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Quantalia.svg",
       "employees": 7465,
       "email": "jobs@quantalia.cbn"
     },
@@ -4812,7 +4812,7 @@ export default [
     },
     "company": {
       "name": "Techade",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Techade.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Techade.svg",
       "employees": 26813,
       "email": "jobs@techade.nyc"
     },
@@ -4846,7 +4846,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Cowtown",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Cowtown.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Cowtown.svg",
       "employees": 63772,
       "email": "jobs@cowtown.gw"
     },
@@ -4880,7 +4880,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Exospeed",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Exospeed.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Exospeed.svg",
       "employees": 46745,
       "email": "jobs@exospeed.coffee"
     },
@@ -4918,7 +4918,7 @@ export default [
     },
     "company": {
       "name": "Quiltigen",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Quiltigen.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Quiltigen.svg",
       "employees": 54835,
       "email": "jobs@quiltigen.autos"
     },
@@ -4966,7 +4966,7 @@ export default [
     },
     "company": {
       "name": "Slax",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Slax.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Slax.svg",
       "employees": 62982,
       "email": "jobs@slax.care"
     },
@@ -5010,7 +5010,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Savvy",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Savvy.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Savvy.svg",
       "employees": 25510,
       "email": "jobs@savvy.cyou"
     },
@@ -5043,7 +5043,7 @@ export default [
     },
     "company": {
       "name": "Ovation",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Ovation.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Ovation.svg",
       "employees": 51604,
       "email": "jobs@ovation.top"
     },
@@ -5086,7 +5086,7 @@ export default [
     },
     "company": {
       "name": "Codact",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Codact.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Codact.svg",
       "employees": 64808,
       "email": "jobs@codact.rich"
     },
@@ -5134,7 +5134,7 @@ export default [
     },
     "company": {
       "name": "Xerex",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Xerex.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Xerex.svg",
       "employees": 25828,
       "email": "jobs@xerex.ml"
     },
@@ -5178,7 +5178,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Podunk",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Podunk.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Podunk.svg",
       "employees": 2423,
       "email": "jobs@podunk.pizza"
     },
@@ -5226,7 +5226,7 @@ export default [
     },
     "company": {
       "name": "Vicon",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Vicon.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Vicon.svg",
       "employees": 48071,
       "email": "jobs@vicon.careers"
     },
@@ -5264,7 +5264,7 @@ export default [
     },
     "company": {
       "name": "Calcula",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Calcula.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Calcula.svg",
       "employees": 10791,
       "email": "jobs@calcula.tickets"
     },
@@ -5303,7 +5303,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Kyaguru",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Kyaguru.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Kyaguru.svg",
       "employees": 56784,
       "email": "jobs@kyaguru.link"
     },
@@ -5347,7 +5347,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Sustenza",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Sustenza.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Sustenza.svg",
       "employees": 47346,
       "email": "jobs@sustenza.kz"
     },
@@ -5376,7 +5376,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Neocent",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Neocent.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Neocent.svg",
       "employees": 19912,
       "email": "jobs@neocent.fish"
     },
@@ -5420,7 +5420,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Trollery",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Trollery.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Trollery.svg",
       "employees": 41620,
       "email": "jobs@trollery.horse"
     },
@@ -5468,7 +5468,7 @@ export default [
     },
     "company": {
       "name": "Ludak",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Ludak.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Ludak.svg",
       "employees": 52790,
       "email": "jobs@ludak.fit"
     },
@@ -5506,7 +5506,7 @@ export default [
     },
     "company": {
       "name": "Reversus",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Reversus.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Reversus.svg",
       "employees": 57414,
       "email": "jobs@reversus.party"
     },
@@ -5540,7 +5540,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Buzzworks",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Buzzworks.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Buzzworks.svg",
       "employees": 7680,
       "email": "jobs@buzzworks.poker"
     },
@@ -5574,7 +5574,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Kraggle",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Kraggle.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Kraggle.svg",
       "employees": 34549,
       "email": "jobs@kraggle.financial"
     },
@@ -5622,7 +5622,7 @@ export default [
     },
     "company": {
       "name": "Frosnex",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Frosnex.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Frosnex.svg",
       "employees": 24867,
       "email": "jobs@frosnex.rs"
     },
@@ -5670,7 +5670,7 @@ export default [
     },
     "company": {
       "name": "Hotcakes",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Hotcakes.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Hotcakes.svg",
       "employees": 10097,
       "email": "jobs@hotcakes.km"
     },
@@ -5709,7 +5709,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Flyboyz",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Flyboyz.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Flyboyz.svg",
       "employees": 33851,
       "email": "jobs@flyboyz.dating"
     },
@@ -5747,7 +5747,7 @@ export default [
     },
     "company": {
       "name": "Entality",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Entality.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Entality.svg",
       "employees": 61500,
       "email": "jobs@entality.cw"
     },
@@ -5781,7 +5781,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Zappix",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Zappix.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Zappix.svg",
       "employees": 65892,
       "email": "jobs@zappix.training"
     },
@@ -5815,7 +5815,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Architax",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Architax.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Architax.svg",
       "employees": 21189,
       "email": "jobs@architax.qpon"
     },
@@ -5854,7 +5854,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Dognosis",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Dognosis.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Dognosis.svg",
       "employees": 9303,
       "email": "jobs@dognosis.bmw"
     },
@@ -5887,7 +5887,7 @@ export default [
     },
     "company": {
       "name": "Viasia",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Viasia.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Viasia.svg",
       "employees": 60666,
       "email": "jobs@viasia.to"
     },
@@ -5921,7 +5921,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Newcube",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Newcube.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Newcube.svg",
       "employees": 12420,
       "email": "jobs@newcube.cool"
     },
@@ -5960,7 +5960,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Exoblue",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Exoblue.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Exoblue.svg",
       "employees": 74830,
       "email": "jobs@exoblue.men"
     },
@@ -5994,7 +5994,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Synkgen",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Synkgen.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Synkgen.svg",
       "employees": 56699,
       "email": "jobs@synkgen.dad"
     },
@@ -6023,7 +6023,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Anacho",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Anacho.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Anacho.svg",
       "employees": 40221,
       "email": "jobs@anacho.hermes"
     },
@@ -6061,7 +6061,7 @@ export default [
     },
     "company": {
       "name": "Rockabye",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Rockabye.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Rockabye.svg",
       "employees": 59143,
       "email": "jobs@rockabye.degree"
     },
@@ -6109,7 +6109,7 @@ export default [
     },
     "company": {
       "name": "Sportan",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Sportan.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Sportan.svg",
       "employees": 63310,
       "email": "jobs@sportan.builders"
     },
@@ -6152,7 +6152,7 @@ export default [
     },
     "company": {
       "name": "Kangle",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Kangle.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Kangle.svg",
       "employees": 65892,
       "email": "jobs@kangle.windows"
     },
@@ -6196,7 +6196,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Injoy",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Injoy.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Injoy.svg",
       "employees": 29856,
       "email": "jobs@injoy.sk"
     },
@@ -6229,7 +6229,7 @@ export default [
     },
     "company": {
       "name": "Gink",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Gink.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Gink.svg",
       "employees": 30432,
       "email": "jobs@gink.bw"
     },
@@ -6267,7 +6267,7 @@ export default [
     },
     "company": {
       "name": "Equitax",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Equitax.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Equitax.svg",
       "employees": 62502,
       "email": "jobs@equitax.motorcycles"
     },
@@ -6306,7 +6306,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Nixelt",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Nixelt.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Nixelt.svg",
       "employees": 37141,
       "email": "jobs@nixelt.mm"
     },
@@ -6354,7 +6354,7 @@ export default [
     },
     "company": {
       "name": "Isotronic",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Isotronic.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Isotronic.svg",
       "employees": 45320,
       "email": "jobs@isotronic.dog"
     },
@@ -6387,7 +6387,7 @@ export default [
     },
     "company": {
       "name": "Buzzmaker",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Buzzmaker.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Buzzmaker.svg",
       "employees": 69813,
       "email": "jobs@buzzmaker.icu"
     },
@@ -6425,7 +6425,7 @@ export default [
     },
     "company": {
       "name": "Comtrail",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Comtrail.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Comtrail.svg",
       "employees": 63577,
       "email": "jobs@comtrail.uy"
     },
@@ -6459,7 +6459,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Proflex",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Proflex.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Proflex.svg",
       "employees": 58981,
       "email": "jobs@proflex.nadex"
     },
@@ -6493,7 +6493,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Rodeology",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Rodeology.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Rodeology.svg",
       "employees": 48527,
       "email": "jobs@rodeology.aquarelle"
     },
@@ -6531,7 +6531,7 @@ export default [
     },
     "company": {
       "name": "Sonique",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Sonique.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Sonique.svg",
       "employees": 66027,
       "email": "jobs@sonique.toys"
     },
@@ -6560,7 +6560,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Bostonic",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Bostonic.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Bostonic.svg",
       "employees": 69362,
       "email": "jobs@bostonic.bt"
     },
@@ -6593,7 +6593,7 @@ export default [
     },
     "company": {
       "name": "Applidec",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Applidec.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Applidec.svg",
       "employees": 71479,
       "email": "jobs@applidec.physio"
     },
@@ -6631,7 +6631,7 @@ export default [
     },
     "company": {
       "name": "Recritube",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Recritube.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Recritube.svg",
       "employees": 6967,
       "email": "jobs@recritube.guge"
     },
@@ -6669,7 +6669,7 @@ export default [
     },
     "company": {
       "name": "Amtap",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Amtap.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Amtap.svg",
       "employees": 53352,
       "email": "jobs@amtap.np"
     },
@@ -6698,7 +6698,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Tubesys",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Tubesys.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Tubesys.svg",
       "employees": 64835,
       "email": "jobs@tubesys.tz"
     },
@@ -6742,7 +6742,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Eweville",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Eweville.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Eweville.svg",
       "employees": 4393,
       "email": "jobs@eweville.tax"
     },
@@ -6775,7 +6775,7 @@ export default [
     },
     "company": {
       "name": "Pharmacon",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Pharmacon.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Pharmacon.svg",
       "employees": 58944,
       "email": "jobs@pharmacon.career"
     },
@@ -6809,7 +6809,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Combot",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Combot.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Combot.svg",
       "employees": 51654,
       "email": "jobs@combot.ad"
     },
@@ -6848,7 +6848,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Columella",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Columella.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Columella.svg",
       "employees": 15961,
       "email": "jobs@columella.ing"
     },
@@ -6886,7 +6886,7 @@ export default [
     },
     "company": {
       "name": "Verbus",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Verbus.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Verbus.svg",
       "employees": 71177,
       "email": "jobs@verbus.gg"
     },
@@ -6924,7 +6924,7 @@ export default [
     },
     "company": {
       "name": "Oatfarm",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Oatfarm.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Oatfarm.svg",
       "employees": 16252,
       "email": "jobs@oatfarm.sucks"
     },
@@ -6958,7 +6958,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Cosmosis",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Cosmosis.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Cosmosis.svg",
       "employees": 38953,
       "email": "jobs@cosmosis.int"
     },
@@ -7006,7 +7006,7 @@ export default [
     },
     "company": {
       "name": "Supportal",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Supportal.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Supportal.svg",
       "employees": 39986,
       "email": "jobs@supportal.doha"
     },
@@ -7050,7 +7050,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Anivet",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Anivet.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Anivet.svg",
       "employees": 77452,
       "email": "jobs@anivet.jm"
     },
@@ -7089,7 +7089,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Andryx",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Andryx.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Andryx.svg",
       "employees": 26813,
       "email": "jobs@andryx.lk"
     },
@@ -7132,7 +7132,7 @@ export default [
     },
     "company": {
       "name": "Zillan",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Zillan.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Zillan.svg",
       "employees": 35235,
       "email": "jobs@zillan.film"
     },
@@ -7166,7 +7166,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Adornica",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Adornica.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Adornica.svg",
       "employees": 29886,
       "email": "jobs@adornica.zip"
     },
@@ -7199,7 +7199,7 @@ export default [
     },
     "company": {
       "name": "Furnitech",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Furnitech.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Furnitech.svg",
       "employees": 69395,
       "email": "jobs@furnitech.aig"
     },
@@ -7242,7 +7242,7 @@ export default [
     },
     "company": {
       "name": "Inrt",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Inrt.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Inrt.svg",
       "employees": 71249,
       "email": "jobs@inrt.uz"
     },
@@ -7286,7 +7286,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Isologix",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Isologix.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Isologix.svg",
       "employees": 79746,
       "email": "jobs@isologix.channel"
     },
@@ -7324,7 +7324,7 @@ export default [
     },
     "company": {
       "name": "Flum",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Flum.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Flum.svg",
       "employees": 58041,
       "email": "jobs@flum.cz"
     },
@@ -7357,7 +7357,7 @@ export default [
     },
     "company": {
       "name": "Poshome",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Poshome.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Poshome.svg",
       "employees": 30564,
       "email": "jobs@poshome.gq"
     },
@@ -7400,7 +7400,7 @@ export default [
     },
     "company": {
       "name": "Kengen",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Kengen.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Kengen.svg",
       "employees": 14928,
       "email": "jobs@kengen.infiniti"
     },
@@ -7434,7 +7434,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Netplode",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Netplode.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Netplode.svg",
       "employees": 75544,
       "email": "jobs@netplode.immobilien"
     },
@@ -7468,7 +7468,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Mondicil",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Mondicil.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Mondicil.svg",
       "employees": 77703,
       "email": "jobs@mondicil.mz"
     },
@@ -7512,7 +7512,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Portico",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Portico.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Portico.svg",
       "employees": 14314,
       "email": "jobs@portico.exposed"
     },
@@ -7556,7 +7556,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Avit",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Avit.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Avit.svg",
       "employees": 59284,
       "email": "jobs@avit.farm"
     },
@@ -7595,7 +7595,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Sybixtex",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Sybixtex.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Sybixtex.svg",
       "employees": 647,
       "email": "jobs@sybixtex.gm"
     },
@@ -7629,7 +7629,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Viagreat",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Viagreat.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Viagreat.svg",
       "employees": 25106,
       "email": "jobs@viagreat.cl"
     },
@@ -7663,7 +7663,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Genesynk",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Genesynk.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Genesynk.svg",
       "employees": 5742,
       "email": "jobs@genesynk.bing"
     },
@@ -7697,7 +7697,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Xumonk",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Xumonk.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Xumonk.svg",
       "employees": 4212,
       "email": "jobs@xumonk.graphics"
     },
@@ -7730,7 +7730,7 @@ export default [
     },
     "company": {
       "name": "Multron",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Multron.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Multron.svg",
       "employees": 51246,
       "email": "jobs@multron.hitachi"
     },
@@ -7769,7 +7769,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Zanity",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Zanity.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Zanity.svg",
       "employees": 39659,
       "email": "jobs@zanity.contractors"
     },
@@ -7808,7 +7808,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Supremia",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Supremia.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Supremia.svg",
       "employees": 26897,
       "email": "jobs@supremia.ht"
     },
@@ -7837,7 +7837,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Exoplode",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Exoplode.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Exoplode.svg",
       "employees": 26084,
       "email": "jobs@exoplode.camera"
     },
@@ -7881,7 +7881,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Xyqag",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Xyqag.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Xyqag.svg",
       "employees": 5457,
       "email": "jobs@xyqag.place"
     },
@@ -7920,7 +7920,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Marvane",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Marvane.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Marvane.svg",
       "employees": 67826,
       "email": "jobs@marvane.ly"
     },
@@ -7963,7 +7963,7 @@ export default [
     },
     "company": {
       "name": "Zillanet",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Zillanet.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Zillanet.svg",
       "employees": 18002,
       "email": "jobs@zillanet.name"
     },
@@ -7997,7 +7997,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Accel",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Accel.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Accel.svg",
       "employees": 4680,
       "email": "jobs@accel.bq"
     },
@@ -8026,7 +8026,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Twiggery",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Twiggery.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Twiggery.svg",
       "employees": 62628,
       "email": "jobs@twiggery.gmail"
     },
@@ -8069,7 +8069,7 @@ export default [
     },
     "company": {
       "name": "Limage",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Limage.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Limage.svg",
       "employees": 58520,
       "email": "jobs@limage.pics"
     },
@@ -8102,7 +8102,7 @@ export default [
     },
     "company": {
       "name": "Hopeli",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Hopeli.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Hopeli.svg",
       "employees": 11161,
       "email": "jobs@hopeli.boats"
     },
@@ -8150,7 +8150,7 @@ export default [
     },
     "company": {
       "name": "Eventix",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Eventix.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Eventix.svg",
       "employees": 5853,
       "email": "jobs@eventix.td"
     },
@@ -8193,7 +8193,7 @@ export default [
     },
     "company": {
       "name": "Microluxe",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Microluxe.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Microluxe.svg",
       "employees": 20276,
       "email": "jobs@microluxe.ke"
     },
@@ -8231,7 +8231,7 @@ export default [
     },
     "company": {
       "name": "Imaginart",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Imaginart.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Imaginart.svg",
       "employees": 33371,
       "email": "jobs@imaginart.win"
     },
@@ -8274,7 +8274,7 @@ export default [
     },
     "company": {
       "name": "Daido",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Daido.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Daido.svg",
       "employees": 18722,
       "email": "jobs@daido.so"
     },
@@ -8313,7 +8313,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Zytrax",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Zytrax.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Zytrax.svg",
       "employees": 49833,
       "email": "jobs@zytrax.army"
     },
@@ -8357,7 +8357,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Panzent",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Panzent.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Panzent.svg",
       "employees": 3327,
       "email": "jobs@panzent.tokyo"
     },
@@ -8391,7 +8391,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Flumbo",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Flumbo.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Flumbo.svg",
       "employees": 49587,
       "email": "jobs@flumbo.st"
     },
@@ -8425,7 +8425,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Oronoko",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Oronoko.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Oronoko.svg",
       "employees": 26787,
       "email": "jobs@oronoko.vn"
     },
@@ -8468,7 +8468,7 @@ export default [
     },
     "company": {
       "name": "Kog",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Kog.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Kog.svg",
       "employees": 35829,
       "email": "jobs@kog.chrome"
     },
@@ -8501,7 +8501,7 @@ export default [
     },
     "company": {
       "name": "Iplax",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Iplax.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Iplax.svg",
       "employees": 64686,
       "email": "jobs@iplax.trading"
     },
@@ -8534,7 +8534,7 @@ export default [
     },
     "company": {
       "name": "Isonus",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Isonus.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Isonus.svg",
       "employees": 23836,
       "email": "jobs@isonus.bridgestone"
     },
@@ -8568,7 +8568,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Proxsoft",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Proxsoft.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Proxsoft.svg",
       "employees": 8831,
       "email": "jobs@proxsoft.tp"
     },
@@ -8612,7 +8612,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Biospan",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Biospan.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Biospan.svg",
       "employees": 43960,
       "email": "jobs@biospan.recipes"
     },
@@ -8651,7 +8651,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Shadease",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Shadease.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Shadease.svg",
       "employees": 77585,
       "email": "jobs@shadease.hr"
     },
@@ -8685,7 +8685,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Vertide",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Vertide.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Vertide.svg",
       "employees": 9453,
       "email": "jobs@vertide.space"
     },
@@ -8728,7 +8728,7 @@ export default [
     },
     "company": {
       "name": "Tersanki",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Tersanki.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Tersanki.svg",
       "employees": 57494,
       "email": "jobs@tersanki.spreadbetting"
     },
@@ -8776,7 +8776,7 @@ export default [
     },
     "company": {
       "name": "Namebox",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Namebox.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Namebox.svg",
       "employees": 29944,
       "email": "jobs@namebox.pl"
     },
@@ -8814,7 +8814,7 @@ export default [
     },
     "company": {
       "name": "Quantasis",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Quantasis.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Quantasis.svg",
       "employees": 26308,
       "email": "jobs@quantasis.mov"
     },
@@ -8862,7 +8862,7 @@ export default [
     },
     "company": {
       "name": "Kozgene",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Kozgene.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Kozgene.svg",
       "employees": 51908,
       "email": "jobs@kozgene.sarl"
     },
@@ -8900,7 +8900,7 @@ export default [
     },
     "company": {
       "name": "Accruex",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Accruex.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Accruex.svg",
       "employees": 35422,
       "email": "jobs@accruex.porn"
     },
@@ -8943,7 +8943,7 @@ export default [
     },
     "company": {
       "name": "Petigems",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Petigems.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Petigems.svg",
       "employees": 21672,
       "email": "jobs@petigems.qa"
     },
@@ -8981,7 +8981,7 @@ export default [
     },
     "company": {
       "name": "Gonkle",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Gonkle.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Gonkle.svg",
       "employees": 27647,
       "email": "jobs@gonkle.ec"
     },
@@ -9029,7 +9029,7 @@ export default [
     },
     "company": {
       "name": "Zillactic",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Zillactic.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Zillactic.svg",
       "employees": 69913,
       "email": "jobs@zillactic.frl"
     },
@@ -9063,7 +9063,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Zytrac",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Zytrac.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Zytrac.svg",
       "employees": 11756,
       "email": "jobs@zytrac.abogado"
     },
@@ -9092,7 +9092,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Hivedom",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Hivedom.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Hivedom.svg",
       "employees": 48454,
       "email": "jobs@hivedom.by"
     },
@@ -9140,7 +9140,7 @@ export default [
     },
     "company": {
       "name": "Fleetmix",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Fleetmix.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Fleetmix.svg",
       "employees": 16308,
       "email": "jobs@fleetmix.codes"
     },
@@ -9178,7 +9178,7 @@ export default [
     },
     "company": {
       "name": "Callflex",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Callflex.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Callflex.svg",
       "employees": 73739,
       "email": "jobs@callflex.bd"
     },
@@ -9217,7 +9217,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Aquamate",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Aquamate.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Aquamate.svg",
       "employees": 56916,
       "email": "jobs@aquamate.associates"
     },
@@ -9251,7 +9251,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Slambda",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Slambda.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Slambda.svg",
       "employees": 21978,
       "email": "jobs@slambda.accenture"
     },
@@ -9290,7 +9290,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Zentility",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Zentility.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Zentility.svg",
       "employees": 4120,
       "email": "jobs@zentility.abbott"
     },
@@ -9328,7 +9328,7 @@ export default [
     },
     "company": {
       "name": "Cinesanct",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Cinesanct.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Cinesanct.svg",
       "employees": 29764,
       "email": "jobs@cinesanct.frogans"
     },
@@ -9376,7 +9376,7 @@ export default [
     },
     "company": {
       "name": "Orboid",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Orboid.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Orboid.svg",
       "employees": 62674,
       "email": "jobs@orboid.thd"
     },
@@ -9419,7 +9419,7 @@ export default [
     },
     "company": {
       "name": "Digigene",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Digigene.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Digigene.svg",
       "employees": 64340,
       "email": "jobs@digigene.maif"
     },
@@ -9467,7 +9467,7 @@ export default [
     },
     "company": {
       "name": "Bleendot",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Bleendot.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Bleendot.svg",
       "employees": 19103,
       "email": "jobs@bleendot.sex"
     },
@@ -9515,7 +9515,7 @@ export default [
     },
     "company": {
       "name": "Isoplex",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Isoplex.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Isoplex.svg",
       "employees": 8566,
       "email": "jobs@isoplex.ninja"
     },
@@ -9548,7 +9548,7 @@ export default [
     },
     "company": {
       "name": "Lotron",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Lotron.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Lotron.svg",
       "employees": 31874,
       "email": "jobs@lotron.bm"
     },
@@ -9587,7 +9587,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Lingoage",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Lingoage.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Lingoage.svg",
       "employees": 2248,
       "email": "jobs@lingoage.onl"
     },
@@ -9621,7 +9621,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Goko",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Goko.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Goko.svg",
       "employees": 32845,
       "email": "jobs@goko.mv"
     },
@@ -9650,7 +9650,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Exozent",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Exozent.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Exozent.svg",
       "employees": 29533,
       "email": "jobs@exozent.sandvikcoromant"
     },
@@ -9694,7 +9694,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Squish",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Squish.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Squish.svg",
       "employees": 20777,
       "email": "jobs@squish.barclaycard"
     },
@@ -9738,7 +9738,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Zentry",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Zentry.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Zentry.svg",
       "employees": 57878,
       "email": "jobs@zentry.mt"
     },
@@ -9771,7 +9771,7 @@ export default [
     },
     "company": {
       "name": "Barkarama",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Barkarama.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Barkarama.svg",
       "employees": 74632,
       "email": "jobs@barkarama.lupin"
     },
@@ -9800,7 +9800,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Intrawear",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Intrawear.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Intrawear.svg",
       "employees": 7870,
       "email": "jobs@intrawear.bharti"
     },
@@ -9833,7 +9833,7 @@ export default [
     },
     "company": {
       "name": "Zytrex",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Zytrex.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Zytrex.svg",
       "employees": 67300,
       "email": "jobs@zytrex.review"
     },
@@ -9872,7 +9872,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Cemention",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Cemention.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Cemention.svg",
       "employees": 54588,
       "email": "jobs@cemention.website"
     },
@@ -9920,7 +9920,7 @@ export default [
     },
     "company": {
       "name": "Zboo",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Zboo.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Zboo.svg",
       "employees": 65026,
       "email": "jobs@zboo.tatar"
     },
@@ -9954,7 +9954,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Gronk",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Gronk.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Gronk.svg",
       "employees": 39940,
       "email": "jobs@gronk.sc"
     },
@@ -9997,7 +9997,7 @@ export default [
     },
     "company": {
       "name": "Enaut",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Enaut.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Enaut.svg",
       "employees": 43761,
       "email": "jobs@enaut.luxury"
     },
@@ -10031,7 +10031,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Kinetica",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Kinetica.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Kinetica.svg",
       "employees": 47069,
       "email": "jobs@kinetica.cleaning"
     },
@@ -10065,7 +10065,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Exerta",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Exerta.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Exerta.svg",
       "employees": 10490,
       "email": "jobs@exerta.buzz"
     },
@@ -10094,7 +10094,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Zillidium",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Zillidium.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Zillidium.svg",
       "employees": 22782,
       "email": "jobs@zillidium.cards"
     },
@@ -10128,7 +10128,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Uneeq",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Uneeq.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Uneeq.svg",
       "employees": 76247,
       "email": "jobs@uneeq.hm"
     },
@@ -10157,7 +10157,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Daycore",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Daycore.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Daycore.svg",
       "employees": 12844,
       "email": "jobs@daycore.sl"
     },
@@ -10200,7 +10200,7 @@ export default [
     },
     "company": {
       "name": "Beadzza",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Beadzza.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Beadzza.svg",
       "employees": 71093,
       "email": "jobs@beadzza.mg"
     },
@@ -10243,7 +10243,7 @@ export default [
     },
     "company": {
       "name": "Quilk",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Quilk.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Quilk.svg",
       "employees": 23384,
       "email": "jobs@quilk.partners"
     },
@@ -10281,7 +10281,7 @@ export default [
     },
     "company": {
       "name": "Ontality",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Ontality.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Ontality.svg",
       "employees": 66526,
       "email": "jobs@ontality.yodobashi"
     },
@@ -10325,7 +10325,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Pearlessa",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Pearlessa.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Pearlessa.svg",
       "employees": 29224,
       "email": "jobs@pearlessa.miami"
     },
@@ -10373,7 +10373,7 @@ export default [
     },
     "company": {
       "name": "Biflex",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Biflex.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Biflex.svg",
       "employees": 33272,
       "email": "jobs@biflex.marketing"
     },
@@ -10407,7 +10407,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Portalis",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Portalis.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Portalis.svg",
       "employees": 62494,
       "email": "jobs@portalis.audio"
     },
@@ -10455,7 +10455,7 @@ export default [
     },
     "company": {
       "name": "Halap",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Halap.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Halap.svg",
       "employees": 18239,
       "email": "jobs@halap.gi"
     },
@@ -10503,7 +10503,7 @@ export default [
     },
     "company": {
       "name": "Talkalot",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Talkalot.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Talkalot.svg",
       "employees": 1989,
       "email": "jobs@talkalot.jp"
     },
@@ -10536,7 +10536,7 @@ export default [
     },
     "company": {
       "name": "Homelux",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Homelux.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Homelux.svg",
       "employees": 19857,
       "email": "jobs@homelux.ky"
     },
@@ -10584,7 +10584,7 @@ export default [
     },
     "company": {
       "name": "Apexia",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Apexia.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Apexia.svg",
       "employees": 69712,
       "email": "jobs@apexia.vet"
     },
@@ -10623,7 +10623,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Moreganic",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Moreganic.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Moreganic.svg",
       "employees": 4320,
       "email": "jobs@moreganic.ua"
     },
@@ -10661,7 +10661,7 @@ export default [
     },
     "company": {
       "name": "Dragbot",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Dragbot.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Dragbot.svg",
       "employees": 16242,
       "email": "jobs@dragbot.forex"
     },
@@ -10709,7 +10709,7 @@ export default [
     },
     "company": {
       "name": "Utara",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Utara.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Utara.svg",
       "employees": 15526,
       "email": "jobs@utara.azure"
     },
@@ -10747,7 +10747,7 @@ export default [
     },
     "company": {
       "name": "Acium",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Acium.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Acium.svg",
       "employees": 34699,
       "email": "jobs@acium.otsuka"
     },
@@ -10776,7 +10776,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Stelaecor",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Stelaecor.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Stelaecor.svg",
       "employees": 24823,
       "email": "jobs@stelaecor.technology"
     },
@@ -10824,7 +10824,7 @@ export default [
     },
     "company": {
       "name": "Splinx",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Splinx.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Splinx.svg",
       "employees": 27872,
       "email": "jobs@splinx.bv"
     },
@@ -10858,7 +10858,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Xoggle",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Xoggle.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Xoggle.svg",
       "employees": 55695,
       "email": "jobs@xoggle.ai"
     },
@@ -10891,7 +10891,7 @@ export default [
     },
     "company": {
       "name": "Lexicondo",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Lexicondo.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Lexicondo.svg",
       "employees": 57476,
       "email": "jobs@lexicondo.house"
     },
@@ -10930,7 +10930,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Housedown",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Housedown.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Housedown.svg",
       "employees": 27539,
       "email": "jobs@housedown.net"
     },
@@ -10964,7 +10964,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Flexigen",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Flexigen.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Flexigen.svg",
       "employees": 17238,
       "email": "jobs@flexigen.fishing"
     },
@@ -11003,7 +11003,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Quarx",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Quarx.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Quarx.svg",
       "employees": 45518,
       "email": "jobs@quarx.ug"
     },
@@ -11042,7 +11042,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Aquasseur",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Aquasseur.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Aquasseur.svg",
       "employees": 12053,
       "email": "jobs@aquasseur.montblanc"
     },
@@ -11085,7 +11085,7 @@ export default [
     },
     "company": {
       "name": "Eclipto",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Eclipto.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Eclipto.svg",
       "employees": 30108,
       "email": "jobs@eclipto.plumbing"
     },
@@ -11118,7 +11118,7 @@ export default [
     },
     "company": {
       "name": "Kindaloo",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Kindaloo.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Kindaloo.svg",
       "employees": 50345,
       "email": "jobs@kindaloo.travel"
     },
@@ -11151,7 +11151,7 @@ export default [
     },
     "company": {
       "name": "Cuizine",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Cuizine.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Cuizine.svg",
       "employees": 56706,
       "email": "jobs@cuizine.org"
     },
@@ -11184,7 +11184,7 @@ export default [
     },
     "company": {
       "name": "Solgan",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Solgan.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Solgan.svg",
       "employees": 51190,
       "email": "jobs@solgan.bible"
     },
@@ -11217,7 +11217,7 @@ export default [
     },
     "company": {
       "name": "Extragene",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Extragene.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Extragene.svg",
       "employees": 68861,
       "email": "jobs@extragene.guru"
     },
@@ -11255,7 +11255,7 @@ export default [
     },
     "company": {
       "name": "Interfind",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Interfind.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Interfind.svg",
       "employees": 907,
       "email": "jobs@interfind.holiday"
     },
@@ -11293,7 +11293,7 @@ export default [
     },
     "company": {
       "name": "Quilm",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Quilm.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Quilm.svg",
       "employees": 45753,
       "email": "jobs@quilm.tw"
     },
@@ -11337,7 +11337,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Optyk",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Optyk.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Optyk.svg",
       "employees": 48181,
       "email": "jobs@optyk.firmdale"
     },
@@ -11376,7 +11376,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Turnling",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Turnling.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Turnling.svg",
       "employees": 18891,
       "email": "jobs@turnling.at"
     },
@@ -11405,7 +11405,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Zoxy",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Zoxy.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Zoxy.svg",
       "employees": 933,
       "email": "jobs@zoxy.an"
     },
@@ -11453,7 +11453,7 @@ export default [
     },
     "company": {
       "name": "Accidency",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Accidency.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Accidency.svg",
       "employees": 56211,
       "email": "jobs@accidency.mx"
     },
@@ -11497,7 +11497,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Zaggle",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Zaggle.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Zaggle.svg",
       "employees": 74203,
       "email": "jobs@zaggle.pf"
     },
@@ -11541,7 +11541,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Assistia",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Assistia.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Assistia.svg",
       "employees": 56666,
       "email": "jobs@assistia.meme"
     },
@@ -11579,7 +11579,7 @@ export default [
     },
     "company": {
       "name": "Neteria",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Neteria.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Neteria.svg",
       "employees": 63116,
       "email": "jobs@neteria.wf"
     },
@@ -11623,7 +11623,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Genekom",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Genekom.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Genekom.svg",
       "employees": 29844,
       "email": "jobs@genekom.florist"
     },
@@ -11657,7 +11657,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Neptide",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Neptide.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Neptide.svg",
       "employees": 48511,
       "email": "jobs@neptide.school"
     },
@@ -11690,7 +11690,7 @@ export default [
     },
     "company": {
       "name": "Insuresys",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Insuresys.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Insuresys.svg",
       "employees": 240,
       "email": "jobs@insuresys.mq"
     },
@@ -11728,7 +11728,7 @@ export default [
     },
     "company": {
       "name": "Medalert",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Medalert.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Medalert.svg",
       "employees": 76751,
       "email": "jobs@medalert.soy"
     },
@@ -11776,7 +11776,7 @@ export default [
     },
     "company": {
       "name": "Schoolio",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Schoolio.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Schoolio.svg",
       "employees": 36932,
       "email": "jobs@schoolio.wtf"
     },
@@ -11819,7 +11819,7 @@ export default [
     },
     "company": {
       "name": "Digigen",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Digigen.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Digigen.svg",
       "employees": 51214,
       "email": "jobs@digigen.mtpc"
     },
@@ -11858,7 +11858,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Zensus",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Zensus.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Zensus.svg",
       "employees": 61299,
       "email": "jobs@zensus.walter"
     },
@@ -11897,7 +11897,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Applideck",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Applideck.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Applideck.svg",
       "employees": 16595,
       "email": "jobs@applideck.za"
     },
@@ -11940,7 +11940,7 @@ export default [
     },
     "company": {
       "name": "Medmex",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Medmex.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Medmex.svg",
       "employees": 23720,
       "email": "jobs@medmex.rent"
     },
@@ -11979,7 +11979,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Applica",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Applica.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Applica.svg",
       "employees": 55753,
       "email": "jobs@applica.ci"
     },
@@ -12008,7 +12008,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Imkan",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Imkan.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Imkan.svg",
       "employees": 739,
       "email": "jobs@imkan.bi"
     },
@@ -12046,7 +12046,7 @@ export default [
     },
     "company": {
       "name": "Centree",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Centree.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Centree.svg",
       "employees": 20722,
       "email": "jobs@centree.sony"
     },
@@ -12085,7 +12085,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Earthplex",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Earthplex.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Earthplex.svg",
       "employees": 20261,
       "email": "jobs@earthplex.education"
     },
@@ -12119,7 +12119,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Medicroix",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Medicroix.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Medicroix.svg",
       "employees": 32383,
       "email": "jobs@medicroix.vlaanderen"
     },
@@ -12157,7 +12157,7 @@ export default [
     },
     "company": {
       "name": "Zanilla",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Zanilla.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Zanilla.svg",
       "employees": 4280,
       "email": "jobs@zanilla.cn"
     },
@@ -12205,7 +12205,7 @@ export default [
     },
     "company": {
       "name": "Xylar",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Xylar.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Xylar.svg",
       "employees": 70611,
       "email": "jobs@xylar.courses"
     },
@@ -12234,7 +12234,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Strozen",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Strozen.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Strozen.svg",
       "employees": 8127,
       "email": "jobs@strozen.market"
     },
@@ -12273,7 +12273,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Cincyr",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Cincyr.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Cincyr.svg",
       "employees": 44102,
       "email": "jobs@cincyr.ag"
     },
@@ -12307,7 +12307,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Calcu",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Calcu.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Calcu.svg",
       "employees": 70245,
       "email": "jobs@calcu.ae"
     },
@@ -12341,7 +12341,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Farmex",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Farmex.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Farmex.svg",
       "employees": 25004,
       "email": "jobs@farmex.team"
     },
@@ -12379,7 +12379,7 @@ export default [
     },
     "company": {
       "name": "Ezentia",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Ezentia.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Ezentia.svg",
       "employees": 5591,
       "email": "jobs@ezentia.nico"
     },
@@ -12408,7 +12408,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Yogasm",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Yogasm.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Yogasm.svg",
       "employees": 39258,
       "email": "jobs@yogasm.church"
     },
@@ -12441,7 +12441,7 @@ export default [
     },
     "company": {
       "name": "Geostele",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Geostele.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Geostele.svg",
       "employees": 42518,
       "email": "jobs@geostele.gal"
     },
@@ -12474,7 +12474,7 @@ export default [
     },
     "company": {
       "name": "Qot",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Qot.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Qot.svg",
       "employees": 56554,
       "email": "jobs@qot.tennis"
     },
@@ -12503,7 +12503,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Quadeebo",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Quadeebo.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Quadeebo.svg",
       "employees": 50107,
       "email": "jobs@quadeebo.how"
     },
@@ -12532,7 +12532,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Quintity",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Quintity.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Quintity.svg",
       "employees": 20798,
       "email": "jobs@quintity.bh"
     },
@@ -12561,7 +12561,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Medcom",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Medcom.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Medcom.svg",
       "employees": 75267,
       "email": "jobs@medcom.nrw"
     },
@@ -12590,7 +12590,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Gynk",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Gynk.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Gynk.svg",
       "employees": 40906,
       "email": "jobs@gynk.ck"
     },
@@ -12633,7 +12633,7 @@ export default [
     },
     "company": {
       "name": "Netagy",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Netagy.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Netagy.svg",
       "employees": 14516,
       "email": "jobs@netagy.brother"
     },
@@ -12672,7 +12672,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Plexia",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Plexia.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Plexia.svg",
       "employees": 67127,
       "email": "jobs@plexia.engineer"
     },
@@ -12715,7 +12715,7 @@ export default [
     },
     "company": {
       "name": "Suretech",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Suretech.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Suretech.svg",
       "employees": 67177,
       "email": "jobs@suretech.re"
     },
@@ -12754,7 +12754,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Enthaze",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Enthaze.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Enthaze.svg",
       "employees": 7437,
       "email": "jobs@enthaze.villas"
     },
@@ -12793,7 +12793,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Zillar",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Zillar.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Zillar.svg",
       "employees": 71792,
       "email": "jobs@zillar.clinic"
     },
@@ -12822,7 +12822,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Exostream",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Exostream.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Exostream.svg",
       "employees": 26125,
       "email": "jobs@exostream.tech"
     },
@@ -12870,7 +12870,7 @@ export default [
     },
     "company": {
       "name": "Slofast",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Slofast.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Slofast.svg",
       "employees": 24116,
       "email": "jobs@slofast.ng"
     },
@@ -12904,7 +12904,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Eplosion",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Eplosion.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Eplosion.svg",
       "employees": 59543,
       "email": "jobs@eplosion.dnp"
     },
@@ -12948,7 +12948,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Tasmania",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Tasmania.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Tasmania.svg",
       "employees": 322,
       "email": "jobs@tasmania.ma"
     },
@@ -12982,7 +12982,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Pyramis",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Pyramis.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Pyramis.svg",
       "employees": 8417,
       "email": "jobs@pyramis.help"
     },
@@ -13021,7 +13021,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Valreda",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Valreda.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Valreda.svg",
       "employees": 20319,
       "email": "jobs@valreda.cruises"
     },
@@ -13055,7 +13055,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Prowaste",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Prowaste.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Prowaste.svg",
       "employees": 34926,
       "email": "jobs@prowaste.kr"
     },
@@ -13089,7 +13089,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Ginkogene",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Ginkogene.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Ginkogene.svg",
       "employees": 36349,
       "email": "jobs@ginkogene.fund"
     },
@@ -13118,7 +13118,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Exposa",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Exposa.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Exposa.svg",
       "employees": 33784,
       "email": "jobs@exposa.events"
     },
@@ -13151,7 +13151,7 @@ export default [
     },
     "company": {
       "name": "Zillacon",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Zillacon.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Zillacon.svg",
       "employees": 49521,
       "email": "jobs@zillacon.pg"
     },
@@ -13180,7 +13180,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Sunclipse",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Sunclipse.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Sunclipse.svg",
       "employees": 76021,
       "email": "jobs@sunclipse.im"
     },
@@ -13219,7 +13219,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Caxt",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Caxt.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Caxt.svg",
       "employees": 41286,
       "email": "jobs@caxt.equipment"
     },
@@ -13252,7 +13252,7 @@ export default [
     },
     "company": {
       "name": "Omnigog",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Omnigog.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Omnigog.svg",
       "employees": 14369,
       "email": "jobs@omnigog.bloomberg"
     },
@@ -13295,7 +13295,7 @@ export default [
     },
     "company": {
       "name": "Vetron",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Vetron.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Vetron.svg",
       "employees": 38231,
       "email": "jobs@vetron.prod"
     },
@@ -13329,7 +13329,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Greeker",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Greeker.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Greeker.svg",
       "employees": 23219,
       "email": "jobs@greeker.ruhr"
     },
@@ -13362,7 +13362,7 @@ export default [
     },
     "company": {
       "name": "Pyramax",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Pyramax.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Pyramax.svg",
       "employees": 57547,
       "email": "jobs@pyramax.maison"
     },
@@ -13391,7 +13391,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Scentric",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Scentric.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Scentric.svg",
       "employees": 39136,
       "email": "jobs@scentric.email"
     },
@@ -13424,7 +13424,7 @@ export default [
     },
     "company": {
       "name": "Terascape",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Terascape.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Terascape.svg",
       "employees": 24972,
       "email": "jobs@terascape.realtor"
     },
@@ -13458,7 +13458,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Urbanshee",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Urbanshee.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Urbanshee.svg",
       "employees": 49435,
       "email": "jobs@urbanshee.ntt"
     },
@@ -13492,7 +13492,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Progenex",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Progenex.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Progenex.svg",
       "employees": 79819,
       "email": "jobs@progenex.edu"
     },
@@ -13525,7 +13525,7 @@ export default [
     },
     "company": {
       "name": "Opticall",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Opticall.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Opticall.svg",
       "employees": 7277,
       "email": "jobs@opticall.is"
     },
@@ -13568,7 +13568,7 @@ export default [
     },
     "company": {
       "name": "Translink",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Translink.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Translink.svg",
       "employees": 54728,
       "email": "jobs@translink.guitars"
     },
@@ -13602,7 +13602,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Vidto",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Vidto.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Vidto.svg",
       "employees": 6161,
       "email": "jobs@vidto.prof"
     },
@@ -13640,7 +13640,7 @@ export default [
     },
     "company": {
       "name": "Isologia",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Isologia.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Isologia.svg",
       "employees": 43352,
       "email": "jobs@isologia.goldpoint"
     },
@@ -13684,7 +13684,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Olucore",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Olucore.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Olucore.svg",
       "employees": 41503,
       "email": "jobs@olucore.rentals"
     },
@@ -13713,7 +13713,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Overfork",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Overfork.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Overfork.svg",
       "employees": 51959,
       "email": "jobs@overfork.allfinanz"
     },
@@ -13757,7 +13757,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Fortean",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Fortean.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Fortean.svg",
       "employees": 46137,
       "email": "jobs@fortean.mortgage"
     },
@@ -13786,7 +13786,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Lyrichord",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Lyrichord.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Lyrichord.svg",
       "employees": 43931,
       "email": "jobs@lyrichord.bayern"
     },
@@ -13819,7 +13819,7 @@ export default [
     },
     "company": {
       "name": "Orbin",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Orbin.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Orbin.svg",
       "employees": 46414,
       "email": "jobs@orbin.ovh"
     },
@@ -13863,7 +13863,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Ginkle",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Ginkle.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Ginkle.svg",
       "employees": 47330,
       "email": "jobs@ginkle.chloe"
     },
@@ -13911,7 +13911,7 @@ export default [
     },
     "company": {
       "name": "Parcoe",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Parcoe.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Parcoe.svg",
       "employees": 68465,
       "email": "jobs@parcoe.hk"
     },
@@ -13959,7 +13959,7 @@ export default [
     },
     "company": {
       "name": "Maroptic",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Maroptic.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Maroptic.svg",
       "employees": 26135,
       "email": "jobs@maroptic.luxe"
     },
@@ -14002,7 +14002,7 @@ export default [
     },
     "company": {
       "name": "Namegen",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Namegen.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Namegen.svg",
       "employees": 2076,
       "email": "jobs@namegen.mba"
     },
@@ -14035,7 +14035,7 @@ export default [
     },
     "company": {
       "name": "Comtract",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Comtract.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Comtract.svg",
       "employees": 56360,
       "email": "jobs@comtract.lb"
     },
@@ -14068,7 +14068,7 @@ export default [
     },
     "company": {
       "name": "Gracker",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Gracker.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Gracker.svg",
       "employees": 18819,
       "email": "jobs@gracker.nf"
     },
@@ -14101,7 +14101,7 @@ export default [
     },
     "company": {
       "name": "Uxmox",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Uxmox.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Uxmox.svg",
       "employees": 49409,
       "email": "jobs@uxmox.legal"
     },
@@ -14145,7 +14145,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Zensure",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Zensure.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Zensure.svg",
       "employees": 67502,
       "email": "jobs@zensure.express"
     },
@@ -14189,7 +14189,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Prosure",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Prosure.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Prosure.svg",
       "employees": 13358,
       "email": "jobs@prosure.foundation"
     },
@@ -14237,7 +14237,7 @@ export default [
     },
     "company": {
       "name": "Arctiq",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Arctiq.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Arctiq.svg",
       "employees": 77822,
       "email": "jobs@arctiq.news"
     },
@@ -14276,7 +14276,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Grainspot",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Grainspot.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Grainspot.svg",
       "employees": 48883,
       "email": "jobs@grainspot.tj"
     },
@@ -14310,7 +14310,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Comveyer",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Comveyer.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Comveyer.svg",
       "employees": 64784,
       "email": "jobs@comveyer.accountant"
     },
@@ -14344,7 +14344,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Interodeo",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Interodeo.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Interodeo.svg",
       "employees": 66468,
       "email": "jobs@interodeo.media"
     },
@@ -14377,7 +14377,7 @@ export default [
     },
     "company": {
       "name": "Acruex",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Acruex.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Acruex.svg",
       "employees": 69464,
       "email": "jobs@acruex.wme"
     },
@@ -14415,7 +14415,7 @@ export default [
     },
     "company": {
       "name": "Paprikut",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Paprikut.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Paprikut.svg",
       "employees": 33340,
       "email": "jobs@paprikut.tui"
     },
@@ -14453,7 +14453,7 @@ export default [
     },
     "company": {
       "name": "Emoltra",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Emoltra.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Emoltra.svg",
       "employees": 50739,
       "email": "jobs@emoltra.aq"
     },
@@ -14482,7 +14482,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Entroflex",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Entroflex.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Entroflex.svg",
       "employees": 56825,
       "email": "jobs@entroflex.nexus"
     },
@@ -14516,7 +14516,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Egypto",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Egypto.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Egypto.svg",
       "employees": 53938,
       "email": "jobs@egypto.reit"
     },
@@ -14550,7 +14550,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Rugstars",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Rugstars.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Rugstars.svg",
       "employees": 44780,
       "email": "jobs@rugstars.photo"
     },
@@ -14589,7 +14589,7 @@ export default [
     "salary": null,
     "company": {
       "name": "Comtext",
-      "avatar": "https://avatars.dicebear.com/api/bottts/Comtext.svg",
+      "avatar": "https://avatars.dicebear.com/api/jdenticon/Comtext.svg",
       "employees": 71709,
       "email": "jobs@comtext.tips"
     },

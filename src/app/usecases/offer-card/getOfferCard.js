@@ -3,10 +3,10 @@ import getSalary from "../common/getSalary";
 const getPath = (offer) => `/offer/${offer.id}`;
 
 const seniorityColors = {
-    junior: 'bg-indigo-900',
-    mid: 'bg-blue-900',
-    senior: 'bg-orange-900',
-    expert: 'bg-red-900'
+    junior: 'bg-indigo-500',
+    mid: 'bg-sky-600',
+    senior: 'bg-orange-500',
+    expert: 'bg-red-500'
 };
 
 const techColors = {
@@ -28,7 +28,7 @@ const getSeniorityPillColor = (seniority) => {
 };
 
 const getTechPillColor = (tech) => {
-    return techColors[tech.toLowerCase()] || 'bg-primary';
+    return 'bg-primary-light text-black'//techColors[tech.toLowerCase()] || 'bg-primary';
 };
 
 const getOfferCard = (offer) => ({
