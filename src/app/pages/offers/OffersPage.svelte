@@ -1,36 +1,36 @@
 <script>
-    import getOffersPage from "../../usecases/pages/offers/getOffersPage";
-    import OfferCard from "./offer-card/OfferCard.svelte";
+    import OffersPageService from "../../services/pages/offers/OffersPageService";
+    import OffersList from "./offers-list/OffersList.svelte";
     import Searchbar from "./searchbar/Searchbar.svelte";
     import style from "./styles";
 
-    let page = getOffersPage();
+    export let companyId;
+
+    let page = OffersPageService.get(companyId);
     const update = () => {
-        page = getOffersPage();
+        page = OffersPageService.get(companyId);
     };
 </script>
 
 <div class={style.page.get}>
     <Searchbar
-        filterGroups={page.filterGroups}
-        pagination={{
-            show: page.offers.models.length,
-            pages: page.offers.pages,
-        }}
+        {...page.searchbar}
         onFilter={update}
+        style={style.page.searchbar}
     />
     <section class={style.page.main.get}>
-        <div class={style.page.main.offers.get}>
-            {#each page.offers.models as model}
-                <OfferCard {model} />
-            {/each}
-            {#if !page.offers.models.length}
-                <div class="h-96 overflow-hidden text-center">
-                    <p class="text-primary-light text-3xl">
-                        {page.notFound}
-                    </p>
-                </div>
-            {/if}
-        </div>
+        <h2 class={style.page.main.title.get}>{page.title}</h2>
+        <p class={style.page.main.total.get}>{page.offers.size} offers</p>
+        <OffersList
+            offers={page.offers.models}
+            style={style.page.main.offersList}
+        />
     </section>
+    {#if !page.offers.models.length}
+        <div class="h-96 text-center">
+            <p class="text-primary-light text-3xl">
+                {page.errorMsgs.notFound}
+            </p>
+        </div>
+    {/if}
 </div>

@@ -1,4 +1,4 @@
-import offers from "../mock/offers";
+import offers from "./mock/offers";
 
 function checkSearch(offer, query) {
     return !query || offer.title.toLowerCase().includes(query.toLowerCase());
@@ -12,8 +12,12 @@ function checkSeniority(offer, seniority) {
     return !seniority || offer.seniority.toLowerCase() === seniority.toLowerCase();
 }
 
+function checkCompany(offer, company) {
+    return !company || offer.company.name.toLowerCase() === company.toLowerCase();
+}
+
 function check(offer, query) {
-    return checkLang(offer, query.lang) && checkSeniority(offer, query.seniority) && checkSearch(offer, query.query);
+    return checkLang(offer, query.lang) && checkSeniority(offer, query.seniority) && checkSearch(offer, query.query) && checkCompany(offer, query.companyId);
 }
 
 class OfferService {

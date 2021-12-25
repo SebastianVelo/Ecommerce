@@ -1,6 +1,6 @@
 <script>
-    import Pill from "../../../shared/components/atom/pill/Pill.svelte";
-    import Action from "../../../shared/components/atom/action/Action.svelte";
+    import Pill from "../../../../shared/components/atom/pill/Pill.svelte";
+    import Action from "../../../../shared/components/atom/action/Action.svelte";
     import style from "./styles";
 
     export let model;
@@ -25,7 +25,7 @@
         </div>
         <div class={style.card.wrapper.rowBottom.get}>
             <div class={style.card.wrapper.rowBottom.spacedRow.get}>
-                <span>{model.company}</span>
+                <Action type="link" action={model.company} />
                 <span>{model.location}</span>
                 <Pill color={model.seniority.color}
                     >{model.seniority.label}</Pill

@@ -1,5 +1,5 @@
-import Styles from "../../../../tailwind/Styles";
-import StyleSheet from "../../../../tailwind/StyleSheet";
+import Styles from "../../../../../tailwind/Styles";
+import StyleSheet from "../../../../../tailwind/StyleSheet";
 
 const card = Styles
     .builder()
@@ -33,7 +33,7 @@ const rowBottom = Styles
 
 export default {
     card: StyleSheet(card, {
-        image: StyleSheet("rounded-md w-24 h-16"),
+        image: StyleSheet("rounded-md w-20 h-20 bg-white"),
         wrapper: StyleSheet(wrapper, {
             rowTop: StyleSheet(rowTop, {
                 title: StyleSheet("text-xl"),

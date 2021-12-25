@@ -1,5 +1,5 @@
-import OffersPage from "../../app/pages/offers/OffersPage.svelte";
-import OfferPage from "../../app/pages/offer/OfferPage.svelte";
+import OffersPage from "../../pages/offers/OffersPage.svelte";
+import OfferDetailPage from "../../pages/offer-detail/OfferDetailPage.svelte";
 
 class LayoutService {
 
@@ -20,7 +20,8 @@ class LayoutService {
         return {
             pages: [
                 { path: "/all/offers", component: OffersPage },
-                { path: "/offer/:id", component: OfferPage },
+                { path: "/:companyId/offers", component: OffersPage },
+                { path: "/offer/:id", component: OfferDetailPage },
             ]
         }
     }

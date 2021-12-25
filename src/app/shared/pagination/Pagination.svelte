@@ -1,11 +1,11 @@
 <script>
+    import QueryService from "../../services/query/QueryService";
     import Control from "./control/Control.svelte";
-    import { getQuery } from "../../usecases/params/getParams";
     export let total;
     export let pagesToShow;
     export let onChange;
 
-    let active = +getQuery().page || 1;
+    let active = +QueryService.getOffersQuery().page || 1;
     let half = Math.floor(pagesToShow / 2) + 1;
     const getPages = () =>
         Array(pagesToShow)
@@ -32,7 +32,7 @@
         changePage={() => handleClick(active - 1)}
         disabled={active === 1}
     />
-    <div class="space-x-2">
+    <div class="space-x-2 overflow-x-auto flex">
         {#each pages as page}
             <button
                 class={`${

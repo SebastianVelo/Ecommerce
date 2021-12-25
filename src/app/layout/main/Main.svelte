@@ -4,7 +4,7 @@
     export let main;
 </script>
 
-<main class="lg:overflow-y-scroll bg-gray-800 h-max">
+<main class="lg:overflow-y-auto bg-gray-800 min-h-screen pt-16 pb-4">
     {#each main.pages as route}
         <Route {...route} />
     {/each}
