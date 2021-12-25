@@ -9,7 +9,7 @@ class LayoutService {
             actions: [
                 {
                     label: "Offers",
-                    path: "/offers",
+                    path: "/all/offers",
                 },
             ],
             sections: [],
@@ -19,7 +19,7 @@ class LayoutService {
     static getMain() {
         return {
             pages: [
-                { path: "/offers", component: OffersPage },
+                { path: "/all/offers", component: OffersPage },
                 { path: "/offer/:id", component: OfferPage },
             ]
         }
