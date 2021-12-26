@@ -2,6 +2,7 @@
     import OfferDetail from "./offer-detail/OfferDetail.svelte";
     import style from "./styles";
     import OfferDetailPageService from "../../services/pages/offer/OfferDetailPageService";
+    import Messages from "../../components/list/Messages.svelte";
 
     export let id;
 
@@ -13,11 +14,6 @@
         <section class={style.page.main.get}>
             <OfferDetail model={page.offer} />
         </section>
-    {:else}
-        <div class="h-96 text-center p-6">
-            <p class="text-primary-light text-3xl">
-                {page.errorMsgs.notFound}
-            </p>
-        </div>
     {/if}
+    <Messages messages={page.messages} />
 </div>

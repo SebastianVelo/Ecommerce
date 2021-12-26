@@ -6,7 +6,6 @@ class QueryService {
 
     static getOffersQuery(companyId) {
         const query = { companyId };
-        console.log(QueryService.getSearchParams())
         const entries = QueryService.getSearchParams().entries();
         [...entries].forEach(([key, val]) => {
             query[key] = val;

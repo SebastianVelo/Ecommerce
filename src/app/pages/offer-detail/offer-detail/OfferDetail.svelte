@@ -3,8 +3,8 @@
     import Footer from "./footer/Footer.svelte";
     import Header from "./header/Header.svelte";
     import style from "./styles";
-    export let model;
 
+    export let model;
 </script>
 
 <div class={style.offerDetail.get}>

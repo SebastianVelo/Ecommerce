@@ -1,11 +1,11 @@
 <script>
     import OfferCard from "./offer-card/OfferCard.svelte";
-    export let offers;
+    export let models;
     export let style;
 </script>
 
 <div class={style.get}>
-    {#each offers as model}
+    {#each models as model}
         <OfferCard {model} />
     {/each}
 </div>

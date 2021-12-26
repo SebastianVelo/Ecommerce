@@ -1,5 +1,6 @@
 <script>
     import style from "./styles";
+    
     export let title;
 </script>
 

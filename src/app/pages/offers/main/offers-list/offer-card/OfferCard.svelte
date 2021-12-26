@@ -1,6 +1,6 @@
 <script>
-    import Pill from "../../../../shared/components/atom/pill/Pill.svelte";
-    import Action from "../../../../shared/components/atom/action/Action.svelte";
+    import Pill from "../../../../../components/atom/pill/Pill.svelte";
+    import Action from "../../../../../components/atom/action/Action.svelte";
     import style from "./styles";
 
     export let model;

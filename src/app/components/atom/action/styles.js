@@ -1,4 +1,4 @@
-import StyleSheet from "../../../../../tailwind/StyleSheet";
+import StyleSheet from "../../../../tailwind/StyleSheet";
 
 export default {
     link: StyleSheet("cursor-pointer"),

@@ -5,6 +5,29 @@ import OfferCardService from "../../components/offer-card/OfferCardService";
 
 class OffersPageService {
 
+    static getTitle(companyId) {
+        return companyId ? `Jobs at ${companyId}` : "Offers from all companies";
+    }
+
+    static getOffers(offers) {
+        const models = offers.results.map(OfferCardService.get);
+        return {
+            ...offers,
+            models: models ?? []
+        };
+    }
+
+    static getTotal(offers) {
+        return `${offers.size} ${offers.size > 1 ? "offers" : "offer"}`;
+    }
+
+    static getMain(offers) {
+        return {
+            offers: OffersPageService.getOffers(offers),
+            total: OffersPageService.getTotal(offers),
+        };
+    }
+
     static getSearchbar(offers, companyId) {
         return {
             filterGroups: FilterService.getFilterGroups(),
@@ -16,27 +39,22 @@ class OffersPageService {
         }
     }
 
-    static getTitle(companyId) {
-        return companyId ? `Jobs at ${companyId}` : "Offers from all companies";
-    }
-
-    static getOffers(offers, models) {
-        return {
-            ...offers,
-            models: models ?? []
-        };
+    static getMessages(offers) {
+        return [
+            {
+                message: "There are no offers with this criteria 😔 Try another one!",
+                show: !offers.results.length
+            }
+        ];
     }
 
     static get(companyId) {
         const query = QueryService.getOffersQuery(companyId);
         const offers = OfferService.search(query);
-        const models = offers.results.map(OfferCardService.get);
         return {
             searchbar: OffersPageService.getSearchbar(offers, companyId),
-            offers: OffersPageService.getOffers(offers, models),
-            errorMsgs: {
-                notFound: "There are no offers with this criteria 😔 Try another one!",
-            }
+            main: OffersPageService.getMain(offers),
+            messages: OffersPageService.getMessages(offers),
         }
     }
 }

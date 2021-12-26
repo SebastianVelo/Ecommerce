@@ -1,6 +1,7 @@
 <script>
+    import Messages from "../../components/list/Messages.svelte";
     import OffersPageService from "../../services/pages/offers/OffersPageService";
-    import OffersList from "./offers-list/OffersList.svelte";
+    import Main from "./main/Main.svelte";
     import Searchbar from "./searchbar/Searchbar.svelte";
     import style from "./styles";
 
@@ -14,25 +15,10 @@
 
 <div class={style.page.get}>
     <Searchbar
-        {...page.searchbar}
-        onFilter={update}
         style={style.page.searchbar}
+        model={page.searchbar}
+        onFilter={update}
     />
-    <section class={style.page.main.get}>
-        <p class={style.page.main.total.get}>
-            {page.offers.size}
-            {page.offers.size > 1 ? "offers" : "offer"}
-        </p>
-        <OffersList
-            offers={page.offers.models}
-            style={style.page.main.offersList}
-        />
-    </section>
-    {#if !page.offers.models.length}
-        <div class="h-96 text-center">
-            <p class="text-primary-light text-3xl">
-                {page.errorMsgs.notFound}
-            </p>
-        </div>
-    {/if}
+    <Main style={style.page.main} model={page.main} />
+    <Messages messages={page.messages} />
 </div>

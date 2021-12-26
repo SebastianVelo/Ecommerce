@@ -1,5 +1,5 @@
 <script>
-    import Action from "../../../../shared/components/atom/action/Action.svelte";
+    import Action from "../../../../components/atom/action/Action.svelte";
 
     export let model;
     export let style;

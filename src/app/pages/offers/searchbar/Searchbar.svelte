@@ -1,14 +1,15 @@
 <script>
     import { navigate } from "svelte-routing";
     import QueryService from "../../../services/query/QueryService";
-    import Pagination from "../../../shared/pagination/Pagination.svelte";
+    import Pagination from "../../../components/pagination/Pagination.svelte";
     import FilterGroups from "./filter-groups/FilterGroups.svelte";
     import Search from "./search/Search.svelte";
-    export let filterGroups;
-    export let pagination;
-    export let title;
+
+    export let model;
     export let onFilter;
     export let style;
+
+    let { filterGroups, pagination, title } = model;
 
     const navigateTo = (params) => {
         navigate(`${window.location.pathname}?${params.toString()}`);
@@ -38,7 +39,7 @@
     };
 </script>
 
-<div class={style.get}>
+<section class={style.get}>
     <FilterGroups {filterGroups} {filter} />
     <Search {search} />
     <h2 class={style.title.get}>{title}</h2>
@@ -51,4 +52,4 @@
             />
         </div>
     {/if}
-</div>
+</section>

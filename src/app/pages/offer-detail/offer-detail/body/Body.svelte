@@ -1,6 +1,8 @@
 <script>
     import Section from "./shared/section/Section.svelte";
+    import SectionList from "./shared/section-list/SectionList.svelte";
     import Skill from "./shared/skill/Skill.svelte";
+    
     export let model;
     export let style;
 </script>
@@ -19,19 +21,17 @@
         </div>
     </Section>
     <div class="grid lg:grid-cols-2 gap-x-4 gap-y-4">
-        <Section title={model.requirements.title}>
-            <ul>
-                {#each model.requirements.data.items as item}
-                    <li>• {item}</li>
-                {/each}
-            </ul>
-        </Section>
-        <Section title={model.niceToHave.title}>
-            <ul>
-                {#each model.niceToHave.data.items as item}
-                    <li>• {item}</li>
-                {/each}
-            </ul>
-        </Section>
+        <SectionList
+            title={model.requirements.title}
+            items={model.requirements.data.items}
+        />
+        <SectionList
+            title={model.niceToHave.title}
+            items={model.niceToHave.data.items}
+        />
     </div>
+    <SectionList
+        title={model.benefits.title}
+        items={model.benefits.data.items}
+    />
 </div>

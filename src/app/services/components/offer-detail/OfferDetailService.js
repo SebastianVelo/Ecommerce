@@ -82,7 +82,13 @@ class OfferDetailService {
                 data: {
                     items: offer.niceToHave
                 }
-            }
+            },
+            benefits: {
+                title: "Benefits",
+                data: {
+                    items: offer.niceToHave
+                }
+            },
         }
     }
 
