@@ -22,7 +22,6 @@
             );
     let pages = getPages();
 
-    console.log(total)
     const handleClick = (page) => {
         if (onChange) onChange(page);
         active = page;

@@ -1,5 +1,5 @@
-import Styles from "../../../../../../tailwind/Styles";
-import StyleSheet from "../../../../../../tailwind/StyleSheet";
+import Styles from "../../../tailwind/Styles";
+import StyleSheet from "../../../tailwind/StyleSheet";
 
 const card = Styles
     .builder()
@@ -40,7 +40,8 @@ export default {
                 salary: StyleSheet("text-lg text-green-300")
             }),
             rowBottom: StyleSheet(rowBottom, {
-                spacedRow: StyleSheet("flex items-center justify-end space-x-4")
+                spacedRow: StyleSheet("flex items-center justify-end space-x-4"),
+                tags: StyleSheet("flex items-center justify-end space-x-4"),
             })
         })
     })

@@ -1,5 +1,5 @@
 <script>
-    import Messages from "../../components/list/Messages.svelte";
+    import Messages from "../../components/list/messages/Messages.svelte";
     import OffersPageService from "../../services/pages/offers/OffersPageService";
     import Main from "./main/Main.svelte";
     import Filterbar from "./filterbar/Filterbar.svelte";

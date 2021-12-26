@@ -1,8 +1,8 @@
 <script>
-    import Pill from "../../../../../components/atom/pill/Pill.svelte";
-    import Action from "../../../../../components/atom/action/Action.svelte";
-    import style from "./styles";
+    import Pill from "../atom/pill/Pill.svelte";
+    import Action from "../atom/action/Action.svelte";
 
+    export let style;
     export let model;
 </script>
 
@@ -26,12 +26,12 @@
         <div class={style.card.wrapper.rowBottom.get}>
             <div class={style.card.wrapper.rowBottom.spacedRow.get}>
                 <Action type="link" action={model.company} />
-                <span>{model.location}</span>
+                <span class={style.card.wrapper.rowBottom.location?.get}>{model.location}</span>
                 <Pill color={model.seniority.color}
                     >{model.seniority.label}</Pill
                 >
             </div>
-            <div class={style.card.wrapper.rowBottom.spacedRow.get}>
+            <div class={style.card.wrapper.rowBottom.tags.get}>
                 {#each model.tags as tag}
                     <Pill color={tag.color}>{tag.label}</Pill>
                 {/each}

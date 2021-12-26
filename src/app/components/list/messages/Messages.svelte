@@ -1,5 +1,5 @@
 <script>
-    import Message from "../message/Message.svelte";
+    import Message from "../../message/Message.svelte";
 
     export let messages;
     export let style;

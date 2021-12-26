@@ -10,7 +10,7 @@
 
     const style = StyleSheet("", {
         ball: StyleSheet(
-            `${color} bg-gradient-to-b w-10 h-10 ring-2 ring-offset-4 ring-offset-gray-800 rounded-full flex items-center justify-center font-bold shadow-lg text-xs`
+            `${color} bg-gradient-to-b w-6 h-6 ring-2 ring-offset-4 ring-offset-gray-800 rounded-full flex items-center justify-center font-bold shadow-lg text-xs`
         ),
         label: StyleSheet("text-white font-bold"),
     });

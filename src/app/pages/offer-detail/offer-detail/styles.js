@@ -1,7 +1,7 @@
 import StyleSheet from "../../../../tailwind/StyleSheet";
 
 export default {
-    offerDetail: StyleSheet("col-span-4 mb-32", {
+    offerDetail: StyleSheet("col-span-4", {
         header: StyleSheet("bg-gradient-to-tr from-primary-dark via-primary to-primary-light lg:p-4 flex space-y-2 flex-col rounded-md relative shadow-2xl", {
             actionsRow: StyleSheet("flex justify-between px-2 text-3xl"),
             detailRow: StyleSheet("flex flex-col items-center justify-center lg:justify-start lg:flex-row space-y-4 space-x-8 px-2 py-4 text-xl w-full", {

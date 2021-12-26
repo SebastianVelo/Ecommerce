@@ -1,8 +1,9 @@
 <script>
+    import Messages from "../../components/list/messages/Messages.svelte";
+    import OfferDetailPageService from "../../services/pages/offer/OfferDetailPageService";
+    import OfferCards from "../../components/list/offer-cards/OfferCards.svelte";
     import OfferDetail from "./offer-detail/OfferDetail.svelte";
     import style from "./styles";
-    import OfferDetailPageService from "../../services/pages/offer/OfferDetailPageService";
-    import Messages from "../../components/list/Messages.svelte";
 
     export let id;
 
@@ -16,4 +17,17 @@
         </section>
     {/if}
     <Messages messages={page.messages} />
+    <div class="space-y-2">
+        {#each page.suggestions as suggestion}
+            <div class="">
+                <h3 class="text-xl md:text-3xl text-primary-light px-4 pb-2">
+                    {suggestion.title}
+                </h3>
+                <OfferCards
+                    models={suggestion.offersList}
+                    style={style.page.suggestions.offersList}
+                />
+            </div>
+        {/each}
+    </div>
 </div>
