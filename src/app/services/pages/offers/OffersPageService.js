@@ -5,9 +5,10 @@ import OfferCardService from "../../components/offer-card/OfferCardService";
 
 class OffersPageService {
 
-    static getSearchbar(offers) {
+    static getSearchbar(offers, companyId) {
         return {
             filterGroups: FilterService.getFilterGroups(),
+            title: OffersPageService.getTitle(companyId),
             pagination: {
                 show: offers.results.length && offers.pages > 1,
                 pages: offers.pages,
@@ -26,20 +27,15 @@ class OffersPageService {
         };
     }
 
-    static getNotFoundMessage() {
-        return "There are no offers with this criteria 😔 Try another one!";
-    }
-
     static get(companyId) {
         const query = QueryService.getOffersQuery(companyId);
         const offers = OfferService.search(query);
         const models = offers.results.map(OfferCardService.get);
         return {
-            searchbar: OffersPageService.getSearchbar(offers),
-            title: OffersPageService.getTitle(companyId),
+            searchbar: OffersPageService.getSearchbar(offers, companyId),
             offers: OffersPageService.getOffers(offers, models),
             errorMsgs: {
-                notFound: OffersPageService.getNotFoundMessage(),
+                notFound: "There are no offers with this criteria 😔 Try another one!",
             }
         }
     }

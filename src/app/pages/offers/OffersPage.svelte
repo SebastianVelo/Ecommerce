@@ -19,8 +19,10 @@
         style={style.page.searchbar}
     />
     <section class={style.page.main.get}>
-        <h2 class={style.page.main.title.get}>{page.title}</h2>
-        <p class={style.page.main.total.get}>{page.offers.size} offers</p>
+        <p class={style.page.main.total.get}>
+            {page.offers.size}
+            {page.offers.size > 1 ? "offers" : "offer"}
+        </p>
         <OffersList
             offers={page.offers.models}
             style={style.page.main.offersList}

@@ -5,7 +5,7 @@
 
 <footer class={style.footer.get}>
     <a
-        class="absolute right-5 bottom-2 px-2 font-bold text-white"
+        class="absolute left-5 top-2 text-sm font-bold text-white"
         href="https://clearbit.com">Logos provided by Clearbit</a
     >
     <div class={style.footer.author.get}>

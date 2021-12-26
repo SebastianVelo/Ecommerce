@@ -6,6 +6,7 @@
     import Search from "./search/Search.svelte";
     export let filterGroups;
     export let pagination;
+    export let title;
     export let onFilter;
     export let style;
 
@@ -40,6 +41,7 @@
 <div class={style.get}>
     <FilterGroups {filterGroups} {filter} />
     <Search {search} />
+    <h2 class={style.title.get}>{title}</h2>
     {#if pagination.show && pagination.pages > 1}
         <div class={style.pagination.get}>
             <Pagination

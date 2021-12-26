@@ -1,7 +1,7 @@
 import offers from "./mock/offers";
 
 function checkSearch(offer, query) {
-    return !query || offer.title.toLowerCase().includes(query.toLowerCase());
+    return !query || offer.title.toLowerCase().includes(query.toLowerCase()) || offer.company.name.toLowerCase().includes(query.toLowerCase());
 }
 
 function checkLang(offer, lang) {

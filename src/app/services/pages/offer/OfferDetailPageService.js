@@ -6,7 +6,10 @@ class OfferDetailPageService {
     static get(id) {
         const offer = OfferService.getById(id);
         return {
-            offer: OfferDetailService.get(offer)
+            offer: offer && OfferDetailService.get(offer),
+            errorMsgs: {
+                notFound: "This offer does not exist anymore 😔 (or maybe it never existed 👀) Try another one!",
+            }
         }
     }
 }
