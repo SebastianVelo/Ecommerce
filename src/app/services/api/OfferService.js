@@ -27,12 +27,12 @@ class OfferService {
 
     static search(query) {
         let { page, size } = query;
-        page = page ?? 0;
+        page = page === undefined ? 0 : page - 1;
         size = size ?? 10;
         const data = OfferService.getAll().filter(offer => check(offer, query));
         const results = data.slice(page * size, (page * size) + size);
         return {
-            results, page, size: data.length, pages: Math.floor(data.length / size)
+            results, page, size: data.length, pages: Math.ceil(data.length / size)
         };
     }
 

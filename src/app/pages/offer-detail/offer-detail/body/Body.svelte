@@ -9,7 +9,7 @@
 
 <div class={style.get}>
     <Section title={model.techStack.title}>
-        <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5">
+        <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 space-y-2">
             {#each model.techStack.data.skills as skill}
                 <Skill {skill} />
             {/each}

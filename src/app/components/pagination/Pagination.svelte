@@ -1,12 +1,14 @@
 <script>
     import QueryService from "../../services/query/QueryService";
     import Control from "./control/Control.svelte";
+
     export let total;
     export let pagesToShow;
     export let onChange;
 
     let active = +QueryService.getOffersQuery().page || 1;
     let half = Math.floor(pagesToShow / 2) + 1;
+
     const getPages = () =>
         Array(pagesToShow)
             .fill("")
@@ -20,6 +22,7 @@
             );
     let pages = getPages();
 
+    console.log(total)
     const handleClick = (page) => {
         if (onChange) onChange(page);
         active = page;

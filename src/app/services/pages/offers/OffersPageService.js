@@ -21,21 +21,24 @@ class OffersPageService {
         return `${offers.size} ${offers.size > 1 ? "offers" : "offer"}`;
     }
 
-    static getMain(offers) {
+    static getMain(offers, companyId) {
         return {
-            offers: OffersPageService.getOffers(offers),
+            title: OffersPageService.getTitle(companyId),
             total: OffersPageService.getTotal(offers),
+            pagination: {
+                show: offers.results.length && offers.pages > 1,
+                pagesToShow: offers.pages > 5
+                    ? 5
+                    : offers.pages,
+                total: offers.pages,
+            },
+            offers: OffersPageService.getOffers(offers),
         };
     }
 
-    static getSearchbar(offers, companyId) {
+    static getFilterbar() {
         return {
-            filterGroups: FilterService.getFilterGroups(),
-            title: OffersPageService.getTitle(companyId),
-            pagination: {
-                show: offers.results.length && offers.pages > 1,
-                pages: offers.pages,
-            }
+            filterGroups: FilterService.getFilterGroups()
         }
     }
 
@@ -52,8 +55,8 @@ class OffersPageService {
         const query = QueryService.getOffersQuery(companyId);
         const offers = OfferService.search(query);
         return {
-            searchbar: OffersPageService.getSearchbar(offers, companyId),
-            main: OffersPageService.getMain(offers),
+            filterbar: OffersPageService.getFilterbar(),
+            main: OffersPageService.getMain(offers, companyId),
             messages: OffersPageService.getMessages(offers),
         }
     }

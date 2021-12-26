@@ -2,7 +2,7 @@
     import Messages from "../../components/list/Messages.svelte";
     import OffersPageService from "../../services/pages/offers/OffersPageService";
     import Main from "./main/Main.svelte";
-    import Searchbar from "./searchbar/Searchbar.svelte";
+    import Filterbar from "./filterbar/Filterbar.svelte";
     import style from "./styles";
 
     export let companyId;
@@ -11,14 +11,15 @@
     const update = () => {
         page = OffersPageService.get(companyId);
     };
+
 </script>
 
 <div class={style.page.get}>
-    <Searchbar
-        style={style.page.searchbar}
-        model={page.searchbar}
+    <Filterbar
+        style={style.page.filterbar}
+        model={page.filterbar}
         onFilter={update}
     />
-    <Main style={style.page.main} model={page.main} />
+    <Main style={style.page.main} model={page.main} onChange={update} />
     <Messages messages={page.messages} />
 </div>

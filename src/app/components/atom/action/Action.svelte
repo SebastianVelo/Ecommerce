@@ -1,5 +1,6 @@
 <script>
     import style from "./styles";
+    
     export let type = "link";
     export let action;
 </script>

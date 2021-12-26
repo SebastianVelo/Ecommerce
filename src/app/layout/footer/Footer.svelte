@@ -1,18 +1,22 @@
 <script>
     import style from "./styles";
+
     export let footer;
 </script>
 
 <footer class={style.footer.get}>
     <a
-        class="absolute left-5 top-2 text-sm font-bold text-white"
-        href="https://clearbit.com">Logos provided by Clearbit</a
+        class={style.footer.clearbit.get}
+        href={footer.clearbit.path}
+        target="_blank"
+        rel="noreferrer">{footer?.clearbit.label}</a
     >
-    <div class={style.footer.author.get}>
+    <div>
         <a
-            href="https://www.linkedin.com/in/sebastian-velo/"
+            class={style.footer.author.get}
+            href={footer.author.path}
             target="_blank"
-            rel="noreferrer">{footer?.author}</a
+            rel="noreferrer">{footer?.author.label}</a
         >
     </div>
 </footer>
