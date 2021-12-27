@@ -3,12 +3,12 @@ import StyleSheet from "../../../tailwind/StyleSheet";
 
 const card = Styles
     .builder()
-    .add("flex-none flex flex-col space-y-2 w-42 shadow-lg bg-black items-center rounded-md text-center p-2 text-white")
+    .add("flex-none flex flex-col space-y-2 w-48 shadow-lg bg-gradient-to-b from-slate-900 to-black text-white items-center rounded-sm text-center border border-primary-light")
     .getClassName();
 
 const wrapper = Styles
     .builder()
-    .add("flex flex-col w-full h-full justify-between h-full space-y-2")
+    .add("flex flex-col w-full h-full justify-between h-full space-y-2 p-2 ")
     .getClassName();
 
 const rowWrapper = Styles
@@ -24,16 +24,16 @@ const rowTop = Styles
 //Row bottom
 const rowBottom = Styles
     .builder()
-    .add("text-sm text-left")
+    .add("text-sm")
     .getClassName();
 
 export default {
     card: StyleSheet(card, {
-        image: StyleSheet("rounded-md w-full h-full bg-white"),
+        image: StyleSheet("w-48 h-full bg-white"),
         wrapper: StyleSheet(wrapper, {
             rowTop: StyleSheet(rowTop, {
-                title: StyleSheet("text-md"),
-                salary: StyleSheet("text-xs text-green-300")
+                title: StyleSheet("text-xl"),
+                salary: StyleSheet("text-sm text-green-300")
             }),
             rowBottom: StyleSheet(rowBottom, {
                 location: StyleSheet("hidden"),

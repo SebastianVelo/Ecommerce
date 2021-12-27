@@ -29,7 +29,7 @@
     };
 </script>
 
-<div class="flex space-x-4 px-4 py-2 overflow-x-auto items-center">
+<div class="flex space-x-2 px-4 overflow-x-auto items-center">
     <Control
         changePage={() => handleClick(active - 1)}
         disabled={active === 1}
@@ -41,7 +41,7 @@
                     page !== active
                         ? "bg-black text-white"
                         : "bg-primary-light "
-                } text-xl h-12 w-12 font-black rounded-lg hover:bg-primary-light hover:text-black`}
+                } text-xl h-10 w-10 font-black rounded-lg hover:bg-primary-light hover:text-black`}
                 on:click={() => handleClick(page)}>{page}</button
             >
         {/each}

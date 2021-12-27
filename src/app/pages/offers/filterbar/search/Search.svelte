@@ -7,7 +7,7 @@
     const style = StyleSheet("", {
         wrapper: StyleSheet("flex items-center justify-start w-full relative", {
             input: StyleSheet(
-                "focus:bg-primary placeholder-black bg-primary-light p-2 rounded-bl-lg rounded-tl-lg w-full text-black focus:outline-none transition-500 transition-all shadow-2xl border-t border-b border-l border-gray-900"
+                "focus:bg-primary placeholder-black bg-primary-light p-2 w-full text-black focus:outline-none transition-500 transition-all shadow-2xl border-t border-b border-l border-gray-900"
             ),
         }),
     });

@@ -4,7 +4,7 @@ import StyleSheet from "../../../tailwind/StyleSheet";
 const nav = Styles
     .builder()
     .add("bg-black text-white fixed w-full z-50 h-18 sm:h-16")
-    .add("px-4 py-2")
+    .add("px-4")
     .add("flex flex-col justify-center")
     .add("space-y-2")
     .getClassName();
@@ -12,7 +12,7 @@ const nav = Styles
 //Top
 const row = Styles
     .builder()
-    .add("flex justify-between items-center flex-col sm:flex-row space-y-2")
+    .add("flex justify-between items-center flex-col sm:flex-row")
     .getClassName();
 
 export default {

@@ -3,20 +3,20 @@ import StyleSheet from "../../../tailwind/StyleSheet";
 
 const card = Styles
     .builder()
-    .add("flex space-x-4 w-full py-3 px-3 bg-gradient-to-br from-slate-900 to-black text-white rounded-sm")
+    .add("flex space-x-4 w-full py-3 px-3 bg-gradient-to-br from-slate-900 to-black text-white rounded-md")
     .getClassName();
 
 const wrapper = Styles
     .builder()
     .add("flex w-full")
-    .add("flex-row justify-start")
-    .add("md:flex-col md:justify-between")
+    .add("flex-col justify-start space-y-2")
+    .add("sm:justify-between sm:space-y-0")
     .getClassName();
 
 const rowWrapper = Styles
     .builder()
-    .add("flex justify-between items-center sm:items-stretch  w-full flex-col")
-    .add("md:flex-row");
+    .add("flex justify-between items-center w-full flex-col")
+    .add("sm:flex-row sm:items-stretch");
 
 //Row top
 const rowTop = Styles
@@ -28,7 +28,7 @@ const rowTop = Styles
 const rowBottom = Styles
     .builder()
     .merge(rowWrapper)
-    .add("text-sm hidden sm:flex")
+    .add("text-sm space-x-2")
     .getClassName();
 
 export default {
@@ -37,11 +37,12 @@ export default {
         wrapper: StyleSheet(wrapper, {
             rowTop: StyleSheet(rowTop, {
                 title: StyleSheet("text-xl"),
-                salary: StyleSheet("text-lg text-green-300")
+                salary: StyleSheet("sm:text-lg text-green-300")
             }),
             rowBottom: StyleSheet(rowBottom, {
                 spacedRow: StyleSheet("flex items-center justify-end space-x-4"),
-                tags: StyleSheet("flex items-center justify-end space-x-4"),
+                location: StyleSheet("hidden"),
+                tags: StyleSheet("hidden sm:flex items-center justify-end space-x-4"),
             })
         })
     })

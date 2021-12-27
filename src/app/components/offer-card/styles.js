@@ -1,5 +1,5 @@
-import Styles from "../../../tailwind/Styless
-import StyleSheet from "../../../tailwind/StyleSheett
+import Styles from "../../../tailwind/Styles"
+import StyleSheet from "../../../tailwind/StyleSheet";
 
 const card = Styles
     .builder()

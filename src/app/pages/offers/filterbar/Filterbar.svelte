@@ -8,10 +8,13 @@
     export let style;
 
     let { filterGroups } = model;
-
 </script>
 
 <section class={style.get}>
-    <FilterGroups {filterGroups} filter={(property, value) => NavigationService.filter(property, value, onFilter)} />
     <Search search={(query) => NavigationService.search(query, onFilter)} />
+    <FilterGroups
+        {filterGroups}
+        filter={(property, value) =>
+            NavigationService.filter(property, value, onFilter)}
+    />
 </section>
